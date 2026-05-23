@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Orange Township Legislative Tracker</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs" type="module"></script>
+  </head>
+  <body>
+    <div class="app-layout">
+      <aside class="sidebar">
+        <div class="seal" aria-label="City of Orange official seal">
+          <img src="assets/orange-seal-white.png" alt="City of Orange, New Jersey seal" />
+        </div>
+        <nav class="tabs" aria-label="Tracker sections">
+          <button class="tab active" type="button" data-tab="dashboard"><span class="nav-icon">DB</span>Dashboard</button>
+          <button class="tab" type="button" data-tab="upload"><span class="nav-icon">AP</span>Admin Panel</button>
+          <button class="tab" type="button" data-tab="items"><span class="nav-icon">LG</span>Legislation</button>
+          <button class="tab" type="button" data-tab="budget"><span class="nav-icon">$</span>Spending</button>
+          <button class="tab" type="button" data-tab="members"><span class="nav-icon">CM</span>Council Members</button>
+        </nav>
+        <label class="side-search">
+          <span>Search</span>
+          <input id="itemSearch" type="search" placeholder="Resolution, contract, money" />
+        </label>
+        <div class="sidebar-footer">
+          <button class="quiet-link" type="button" data-tab-link="upload">Data Sources</button>
+          <button class="quiet-link" type="button" data-tab-link="budget">Budget Crosswalk</button>
+          <button class="quiet-link" type="button" data-tab-link="members">Council Scorecards</button>
+          <button class="quiet-link" type="button" data-tab-link="items">Public Record</button>
+        </div>
+      </aside>
+
+      <main class="main-area">
+        <header class="topbar">
+          <div>
+            <h1>City of Orange Legislative Tracker</h1>
+            <p>Council actions, spending, votes, and public accountability.</p>
+          </div>
+          <div class="topbar-actions">
+            <span id="dataUpdatedLabel" class="data-updated">Data updated: Apr 21, 2026</span>
+            <button id="exportJsonBtn" class="button secondary" type="button">Download Data</button>
+            <button id="printPublicViewBtn" class="icon-button" type="button" aria-label="Print public view">P</button>
+          </div>
+        </header>
+
+        <section id="dashboard" class="panel active" aria-labelledby="dashboardTitle">
+          <h2 id="dashboardTitle" class="visually-hidden">Public dashboard</h2>
+
+          <div class="filters visual-filters">
+            <label>
+              Meeting date
+              <select id="meetingDateFilter">
+                <option value="all">All meetings</option>
+              </select>
+            </label>
+            <label>
+              Fiscal year
+              <select id="fiscalYearFilter"></select>
+            </label>
+            <label>
+              Status
+              <select id="statusFilter">
+                <option value="all">All statuses</option>
+                <option value="pending">Pending</option>
+                <option value="passed">Passed</option>
+                <option value="failed">Failed</option>
+                <option value="postponed">Postponed</option>
+                <option value="withdrawn">Withdrawn</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="kpi-grid" id="kpiGrid"></div>
+
+          <div class="hero-grid">
+            <section class="surface table-panel wide-panel">
+              <div class="surface-heading">
+                <h2>Recent Legislative Items</h2>
+                <button class="button secondary compact" type="button" data-tab-link="items">View All Legislation</button>
+              </div>
+              <div id="dashboardLegislationTable" class="dense-table"></div>
+            </section>
+
+            <section class="surface vote-panel">
+              <div class="surface-heading">
+                <h2>Council Vote Matrix</h2>
+                <span class="legend">Y Yes | N No | A Abstain | - Absent</span>
+              </div>
+              <div id="voteMatrix" class="vote-matrix"></div>
+            </section>
+
+            <section class="surface spending-panel">
+              <div class="surface-heading">
+                <h2>Spending Overview</h2>
+                <span id="budgetHealthLabel"></span>
+              </div>
+              <div class="spending-top">
+                <div id="spendingGauge" class="gauge-card"></div>
+                <div id="deptDonuts" class="donut-grid"></div>
+              </div>
+              <div id="trendChart" class="trend-chart"></div>
+            </section>
+          </div>
+
+          <div class="insight-grid">
+            <section class="surface flow-sankey-panel">
+              <div class="surface-heading">
+                <h2>Legislation Flow by Outcome</h2>
+                <span id="actionCountLabel"></span>
+              </div>
+              <div id="statusBars" class="flow-board"></div>
+            </section>
+
+            <section class="surface">
+              <h2>Administrative Zeitgeist</h2>
+              <div id="wordCloud" class="word-cloud"></div>
+            </section>
+
+            <section class="surface">
+              <h2>Public Engagement</h2>
+              <div id="publicEngagement" class="engagement-board"></div>
+            </section>
+
+            <section class="surface">
+              <h2>Meeting Timeline / Activity Feed</h2>
+              <div id="recentActions" class="timeline"></div>
+            </section>
+          </div>
+        </section>
+
+        <section id="upload" class="panel" aria-labelledby="uploadTitle">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Admin panel</p>
+              <h2 id="uploadTitle">Document Intake</h2>
+            </div>
+            <span id="extractionStatus">No document parsed yet.</span>
+          </div>
+
+          <section id="adminGate" class="surface admin-gate">
+            <div>
+              <p class="eyebrow">Restricted</p>
+              <h2>Admin access required</h2>
+              <p>Enter the admin password to upload council documents, review extracted records, and update the tracker.</p>
+            </div>
+            <div class="admin-login">
+              <label>
+                Password
+                <input id="adminPassword" type="password" autocomplete="current-password" />
+              </label>
+              <button id="unlockAdminBtn" class="button primary" type="button">Unlock Admin</button>
+              <span id="adminPasswordError" class="form-error" role="alert"></span>
+            </div>
+          </section>
+
+          <div id="adminContent" class="admin-content" hidden>
+            <div class="admin-toolbar">
+              <span>Admin tools unlocked for this browser session.</span>
+              <div class="admin-actions">
+                <label class="button secondary compact file-button">
+                  Import Data
+                  <input id="importJsonInput" type="file" accept="application/json" />
+                </label>
+                <button id="lockAdminBtn" class="button secondary compact" type="button">Lock admin</button>
+              </div>
+            </div>
+
+            <div class="intake-grid admin-intake-grid">
+              <section class="surface upload-card compact-upload">
+                <h2>Upload Council Agenda PDF</h2>
+                <label class="drop-zone">
+                  <input id="agendaPdfInput" type="file" accept="application/pdf" />
+                  <span class="upload-symbol">UP</span>
+                  <span>Drag & drop file here or click to browse</span>
+                  <small>PDF only, max 25MB</small>
+                </label>
+                <div class="inline-controls">
+                  <label>
+                    Meeting date
+                    <input id="agendaMeetingDate" type="date" />
+                  </label>
+                  <button id="parseAgendaBtn" class="button primary" type="button">Extract</button>
+                </div>
+              </section>
+
+              <section class="surface upload-card compact-upload">
+                <h2>Upload Meeting Minutes PDF</h2>
+                <label class="drop-zone teal">
+                  <input id="minutesPdfInput" type="file" accept="application/pdf" />
+                  <span class="upload-symbol">MT</span>
+                  <span>Drag & drop file here or click to browse</span>
+                  <small>PDF only, max 25MB</small>
+                </label>
+                <div class="inline-controls">
+                  <label>
+                    Meeting date
+                    <input id="minutesMeetingDate" type="date" />
+                  </label>
+                  <button id="parseMinutesBtn" class="button primary" type="button">Match</button>
+                </div>
+              </section>
+
+              <section class="surface process-card">
+                <h2>How We Process Your Documents</h2>
+                <div class="process-steps">
+                  <div><span>1</span><strong>Upload PDFs</strong></div>
+                  <div><span>2</span><strong>Extract Items</strong></div>
+                  <div><span>3</span><strong>Match Minutes</strong></div>
+                  <div><span>4</span><strong>Track Votes</strong></div>
+                  <div><span>5</span><strong>Update Dashboard</strong></div>
+                </div>
+              </section>
+            </div>
+            <section class="surface">
+              <div class="surface-heading">
+                <h2>Extraction Review</h2>
+              </div>
+              <div id="extractionReview" class="review-list"></div>
+            </section>
+
+            <section class="surface">
+              <div class="surface-heading">
+                <div>
+                  <p class="eyebrow">Vote tracking</p>
+                  <h2>Council Members</h2>
+                </div>
+                <button id="addCouncilMemberBtn" class="button primary" type="button">Add member</button>
+              </div>
+              <div id="councilList" class="member-list"></div>
+            </section>
+          </div>
+        </section>
+
+        <section id="items" class="panel" aria-labelledby="itemsTitle">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Review and publish</p>
+              <h2 id="itemsTitle">Legislative Items</h2>
+            </div>
+            <div class="toolbar">
+              <label>
+                Type
+                <select id="typeFilter">
+                  <option value="all">All types</option>
+                  <option value="ordinance">Ordinance</option>
+                  <option value="resolution">Resolution</option>
+                  <option value="contract">Contract</option>
+                  <option value="spending">Spending</option>
+                  <option value="discussion">Discussion</option>
+                  <option value="other">Other</option>
+                </select>
+              </label>
+            </div>
+          </div>
+          <div id="itemsTable" class="table-wrap"></div>
+        </section>
+
+        <section id="budget" class="panel" aria-labelledby="budgetTitle">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Money watch</p>
+              <h2 id="budgetTitle">Budget & Spending</h2>
+            </div>
+          </div>
+          <div class="budget-layout">
+            <section class="surface">
+              <h3>Budget reference</h3>
+              <p class="budget-source-copy">Loaded from the OrangeBudgetDashboard dataset for 2026 budget cross-reference.</p>
+              <div id="budgetSourceSummary" class="budget-source-summary"></div>
+              <div id="budgetTable" class="table-wrap compact-table"></div>
+            </section>
+            <section class="surface">
+              <h3>Spending by category</h3>
+              <div id="spendingBreakdown" class="breakdown"></div>
+            </section>
+          </div>
+        </section>
+
+        <section id="members" class="panel" aria-labelledby="membersTitle">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Council scorecards</p>
+              <h2 id="membersTitle">Council Members</h2>
+            </div>
+            <span class="legend">Sponsorship is inferred from agenda and minutes text.</span>
+          </div>
+          <div id="memberToggle" class="member-toggle" aria-label="Choose council member"></div>
+          <div id="memberProfile" class="member-profile"></div>
+        </section>
+
+      </main>
+    </div>
+
+    <dialog id="itemDialog">
+      <form method="dialog" id="itemForm">
+        <div class="dialog-heading">
+          <h2 id="itemDialogTitle">Legislative item</h2>
+          <button class="icon-button" value="cancel" type="submit" aria-label="Close">x</button>
+        </div>
+        <input id="editingItemId" type="hidden" />
+        <div class="form-grid">
+          <label>Title<input id="itemTitle" required /></label>
+          <label>
+            Type
+            <select id="itemType">
+              <option value="ordinance">Ordinance</option>
+              <option value="resolution">Resolution</option>
+              <option value="contract">Contract</option>
+              <option value="spending">Spending</option>
+              <option value="discussion">Discussion</option>
+              <option value="other">Other</option>
+            </select>
+          </label>
+          <label>Date introduced<input id="dateIntroduced" type="date" /></label>
+          <label>Meeting date<input id="meetingDate" type="date" /></label>
+          <label>
+            Status
+            <select id="itemStatus">
+              <option value="pending">Pending</option>
+              <option value="passed">Passed</option>
+              <option value="failed">Failed</option>
+              <option value="postponed">Postponed</option>
+              <option value="withdrawn">Withdrawn</option>
+            </select>
+          </label>
+          <label>Amount<input id="amount" type="number" step="0.01" min="0" /></label>
+          <label>
+            Amount type
+            <select id="amountType">
+              <option value="expense">Expense</option>
+              <option value="revenue">Revenue / grant</option>
+              <option value="refund">Refund</option>
+              <option value="no-cost">No cost</option>
+              <option value="unknown">Unknown</option>
+            </select>
+          </label>
+          <label>Resolution number<input id="resolutionNumber" /></label>
+          <label>Ordinance number<input id="ordinanceNumber" /></label>
+          <label>Contract / vendor<input id="contractName" /></label>
+          <label>
+            Budget category
+            <input id="budgetCategory" list="budgetCategoryOptions" />
+            <datalist id="budgetCategoryOptions"></datalist>
+          </label>
+        </div>
+        <label>High-level discussion<textarea id="discussion" rows="3"></textarea></label>
+        <label>Public comments<textarea id="publicComments" rows="3"></textarea></label>
+        <fieldset>
+          <legend>Council votes</legend>
+          <div id="voteEditor" class="vote-grid"></div>
+        </fieldset>
+        <div class="dialog-actions">
+          <button id="deleteItemBtn" class="button danger" type="button">Delete</button>
+          <button class="button secondary" value="cancel" type="submit">Cancel</button>
+          <button id="saveItemBtn" class="button primary" value="default" type="button">Save item</button>
+        </div>
+      </form>
+    </dialog>
+
+    <template id="reviewItemTemplate">
+      <article class="review-card">
+        <div>
+          <p class="eyebrow review-type"></p>
+          <h4 class="review-title"></h4>
+          <p class="review-meta"></p>
+          <p class="review-text"></p>
+        </div>
+        <button class="button primary compact review-add" type="button">Add to tracker</button>
+      </article>
+    </template>
+
+    <script src="budget-dashboard-data.js"></script>
+    <script src="seed-data.js"></script>
+    <script src="imported-history-data.js"></script>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

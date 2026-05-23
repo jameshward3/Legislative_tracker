@@ -1,0 +1,11 @@
+# Run these from a machine with Git installed and GitHub access.
+git clone https://github.com/jameshward3/Legislative_tracker.git
+cd Legislative_tracker
+copy /Y ..\squarespace-export\README.md README.md
+xcopy /E /I /Y ..\squarespace-export\docs docs
+git add README.md docs
+git commit -m "Add Squarespace-ready legislative tracker package"
+git push origin main
+
+# Then enable GitHub Pages:
+# Settings > Pages > Deploy from a branch > main > /docs
