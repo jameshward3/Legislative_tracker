@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>First 100 Days Micro Widget</title>
+    <style>
+      html,
+      body {
+        background: transparent;
+        height: auto;
+        margin: 0;
+        overflow: hidden;
+        padding: 0;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="first-100-days-micro-widget"></div>
+    <script src="./metrics-data.js"></script>
+    <script
+      src="./micro-widget.js"
+      data-target="#first-100-days-micro-widget"
+      data-dashboard-url="https://jameswardfororange.com/first-100-days">
+    </script>
+    <script>
+      (function () {
+        function sendHeight() {
+          var height = Math.ceil(document.documentElement.scrollHeight || document.body.scrollHeight || 0);
+          window.parent.postMessage({
+            type: "first100days:micro-height",
+            height: height
+          }, "*");
+        }
+
+        window.addEventListener("load", sendHeight);
+        window.addEventListener("resize", sendHeight);
+        window.addEventListener("first100days:data-ready", function () {
+          window.setTimeout(sendHeight, 100);
+        });
+        window.setTimeout(sendHeight, 500);
+      }());
+    </script>
+  </body>
+</html>
