@@ -667,6 +667,11 @@ tr:last-child td {
   border-bottom: 0;
 }
 
+.focused-item-row {
+  background: #fff8e7;
+  box-shadow: inset 4px 0 0 var(--orange);
+}
+
 .item-link {
   color: var(--blue);
   font-weight: 850;
@@ -707,6 +712,22 @@ tr:last-child td {
 .status-failed,
 .status-withdrawn {
   background: var(--red);
+}
+
+.status-archived {
+  background: #64748b;
+}
+
+.archive-label {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0 10px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 900;
 }
 
 .vote-token {

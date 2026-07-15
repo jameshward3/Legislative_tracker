@@ -114,6 +114,7 @@ const councilProfiles = {
 let state = loadState();
 let pendingReview = [];
 let selectedPublicMember = "";
+let focusedItemId = "";
 
 const els = {
   tabs: document.querySelectorAll(".tab"),
@@ -190,6 +191,7 @@ const els = {
 
 bindEvents();
 render();
+applyInitialFocusFromQuery();
 
 function bindEvents() {
   els.tabs.forEach((tab) => {
@@ -269,6 +271,24 @@ function showTab(id) {
   els.panels.forEach((panel) => panel.classList.toggle("active", panel.id === id));
 }
 
+function applyInitialFocusFromQuery() {
+  const itemId = new URLSearchParams(window.location.search).get("focusItem");
+  if (!itemId || !state.items.some((item) => item.id === itemId)) return;
+  focusedItemId = itemId;
+  els.itemSearch.value = "";
+  els.statusFilter.value = "all";
+  els.typeFilter.value = "all";
+  els.fiscalYearFilter.value = "all";
+  syncMeetingDates();
+  els.meetingDateFilter.value = "all";
+  showTab("items");
+  renderItemsTable();
+  requestAnimationFrame(() => {
+    const row = document.querySelector(`[data-item-row="${CSS.escape(itemId)}"]`);
+    row?.scrollIntoView({ block: "center", behavior: "smooth" });
+  });
+}
+
 function render() {
   syncFiscalYears();
   syncMeetingDates();
@@ -308,6 +328,7 @@ function syncFiscalYears() {
   const selected = els.fiscalYearFilter.value;
   const years = new Set(["all"]);
   state.items.forEach((item) => years.add(fiscalYearForDate(item.meetingDate)));
+  archiveMeetings().forEach((meeting) => years.add(fiscalYearForDate(meeting.meetingDate)));
   state.budgetLines.forEach((line) => years.add(line.fiscalYear));
   const options = [...years].filter(Boolean).sort((a, b) => b.localeCompare(a));
   els.fiscalYearFilter.innerHTML = options
@@ -323,6 +344,10 @@ function syncMeetingDates() {
   state.items.forEach((item) => {
     if (!item.meetingDate) return;
     if (fiscalYear === "all" || fiscalYearForDate(item.meetingDate) === fiscalYear) dates.add(item.meetingDate);
+  });
+  archiveMeetings().forEach((meeting) => {
+    if (!meeting.meetingDate) return;
+    if (fiscalYear === "all" || fiscalYearForDate(meeting.meetingDate) === fiscalYear) dates.add(meeting.meetingDate);
   });
   const options = [...dates].sort((a, b) => (a === "all" ? -1 : b === "all" ? 1 : b.localeCompare(a)));
   els.meetingDateFilter.innerHTML = options
@@ -347,7 +372,7 @@ function filteredItems() {
   const type = els.typeFilter.value;
   const query = els.itemSearch.value.trim().toLowerCase();
 
-  return state.items.filter((item) => {
+  const matchesFilters = (item) => {
     const searchable = [
       item.title,
       item.type,
@@ -358,6 +383,7 @@ function filteredItems() {
       item.budgetCategory,
       item.discussion,
       item.publicComments,
+      item.sourceDoc,
     ]
       .join(" ")
       .toLowerCase();
@@ -369,7 +395,68 @@ function filteredItems() {
       (type === "all" || item.type === type) &&
       (!query || searchable.includes(query))
     );
-  });
+  };
+
+  const parsedItems = state.items.filter(matchesFilters);
+  if (fiscalYear === "all" && meetingDate === "all") return parsedItems;
+
+  const parsedDates = new Set(state.items.map((item) => item.meetingDate).filter(Boolean));
+  const archiveItems = archiveMeetings()
+    .filter((meeting) => meeting.meetingDate && !parsedDates.has(meeting.meetingDate))
+    .map(archiveMeetingToItem)
+    .filter(matchesFilters);
+
+  return [...parsedItems, ...archiveItems];
+}
+
+function archiveMeetings() {
+  return Array.isArray(state.archiveMeetings) ? state.archiveMeetings : [];
+}
+
+function archiveMeetingToItem(meeting) {
+  const documentList = meeting.documentTypes?.length ? meeting.documentTypes.join(" and ") : "agenda/minutes";
+  const fileList = meeting.files?.length ? meeting.files.join("; ") : "PDF link pending or unavailable";
+  const stats = meeting.archiveStats || {};
+  const spending = numeric(stats.spendingTotal);
+  return {
+    id: `archive-item-${meeting.id}`,
+    title: `${meeting.title} archive documents`,
+    type: "other",
+    dateIntroduced: meeting.meetingDate,
+    meetingDate: meeting.meetingDate,
+    status: "archived",
+    amount: spending,
+    amountType: spending ? "expense" : "no-cost",
+    resolutionNumber: "",
+    ordinanceNumber: "",
+    contractName: "",
+    budgetCategory: "Meeting Archive",
+    discussion: `${documentList} indexed from the local council meeting archive. ${meeting.downloadedCount} of ${meeting.documentCount} document records are downloaded. Archive extraction found ${numeric(stats.resolutionCount)} resolution reference${numeric(stats.resolutionCount) === 1 ? "" : "s"}, ${numeric(stats.ordinanceCount)} ordinance reference${numeric(stats.ordinanceCount) === 1 ? "" : "s"}, ${numeric(stats.contractCount)} contract/agreement reference${numeric(stats.contractCount) === 1 ? "" : "s"}, and ${currency.format(spending)} in agenda dollar mentions.`,
+    publicComments: "",
+    votes: {},
+    sourceDoc: fileList,
+    rawText: meeting.sourcePageUrl || "",
+    updatedAt: window.ORANGE_TRACKER_SEED?.archiveSummary?.generatedAt || "",
+    isArchiveRecord: true,
+    archiveStats: stats,
+  };
+}
+
+function filteredArchiveMeetings() {
+  const fiscalYear = els.fiscalYearFilter.value;
+  const meetingDate = els.meetingDateFilter.value;
+  return archiveMeetings().filter(
+    (meeting) =>
+      meeting.meetingDate &&
+      (fiscalYear === "all" || fiscalYearForDate(meeting.meetingDate) === fiscalYear) &&
+      (meetingDate === "all" || meeting.meetingDate === meetingDate)
+  );
+}
+
+function trackedMeetingDates(items) {
+  const dates = new Set(items.map((item) => item.meetingDate).filter(Boolean));
+  filteredArchiveMeetings().forEach((meeting) => dates.add(meeting.meetingDate));
+  return dates;
 }
 
 function renderDashboard() {
@@ -377,25 +464,25 @@ function renderDashboard() {
   const passed = items.filter((item) => item.status === "passed");
   const pending = items.filter((item) => item.status === "pending");
   const postponed = items.filter((item) => item.status === "postponed" || item.status === "withdrawn");
-  const totalSpending = passed.reduce((sum, item) => sum + spendingAmount(item), 0);
-  const moneyItems = items.filter((item) => spendingAmount(item) > 0).length;
+  const totalSpending = items.reduce((sum, item) => sum + approvedSpendingAmount(item), 0);
+  const moneyItems = items.filter((item) => approvedSpendingAmount(item) > 0).length;
   const revenue = passed.reduce((sum, item) => sum + revenueAmount(item), 0);
-  const resolutions = items.filter((item) => item.resolutionNumber).length;
-  const ordinances = items.filter((item) => item.ordinanceNumber).length;
-  const contracts = items.filter((item) => isContractLike(item)).length;
-  const meetingCount = new Set(items.map((item) => item.meetingDate).filter(Boolean)).size;
+  const resolutions = items.reduce((sum, item) => sum + resolutionCountForItem(item), 0);
+  const ordinances = items.reduce((sum, item) => sum + ordinanceCountForItem(item), 0);
+  const contracts = items.reduce((sum, item) => sum + contractCountForItem(item), 0);
+  const meetingCount = trackedMeetingDates(items).size;
 
   els.kpiGrid.innerHTML = [
-    kpiMarkup("Total Legislative Items", items.length, "Agenda and minutes records", "IT"),
-    kpiMarkup("Resolutions", resolutions, "April 7 agenda actions", "RS"),
-    kpiMarkup("Ordinances", ordinances, "Introduced or postponed", "OR"),
-    kpiMarkup("Contracts", contracts, "Vendors, grants, agreements", "CT"),
-    kpiMarkup("Dollars Approved YTD", currency.format(totalSpending), `${moneyItems} spending-class items`, "$"),
-    kpiMarkup("Meetings Tracked", meetingCount, "Seeded from agenda and minutes", "MT"),
+    kpiMarkup("Total Legislative Items", items.length, archiveItemCount(items) ? `${archiveItemCount(items)} archive document record${archiveItemCount(items) === 1 ? "" : "s"} shown` : "Agenda and minutes records", "IT"),
+    kpiMarkup("Resolutions", resolutions, archiveItemCount(items) ? "Archive-derived references" : "Parsed identifiers", "RS"),
+    kpiMarkup("Ordinances", ordinances, archiveItemCount(items) ? "Archive-derived references" : "Introduced or postponed", "OR"),
+    kpiMarkup("Contracts", contracts, archiveItemCount(items) ? "Archive contract/agreement references" : "Vendors, grants, agreements", "CT"),
+    kpiMarkup(dollarsKpiLabel(), currency.format(totalSpending), `${moneyItems} spending-class item${moneyItems === 1 ? "" : "s"}`, "$"),
+    kpiMarkup("Meetings Tracked", meetingCount, "Parsed actions plus archive dates", "MT"),
     kpiMarkup("Postponed / Withdrawn", postponed.length, `${pending.length} pending record${pending.length === 1 ? "" : "s"}`, "PW"),
   ].join("");
 
-  const statusCounts = ["pending", "passed", "failed", "postponed", "withdrawn"].map((status) => ({
+  const statusCounts = ["pending", "passed", "failed", "postponed", "withdrawn", "archived"].map((status) => ({
     status,
     count: items.filter((item) => item.status === status).length,
   }));
@@ -409,50 +496,97 @@ function renderDashboard() {
   renderRecentActions(items);
 }
 
+function dollarsKpiLabel() {
+  const fiscalYear = els.fiscalYearFilter.value;
+  return fiscalYear !== "all" && fiscalYear !== String(new Date().getFullYear()) ? "Dollars Approved EOY" : "Dollars Approved YTD";
+}
+
+function archiveItemCount(items) {
+  return items.filter((item) => item.isArchiveRecord).length;
+}
+
+function resolutionCountForItem(item) {
+  if (item.isArchiveRecord) return numeric(item.archiveStats?.resolutionCount);
+  return item.resolutionNumber ? 1 : 0;
+}
+
+function ordinanceCountForItem(item) {
+  if (item.isArchiveRecord) return numeric(item.archiveStats?.ordinanceCount);
+  return item.ordinanceNumber ? 1 : 0;
+}
+
+function contractCountForItem(item) {
+  if (item.isArchiveRecord) return numeric(item.archiveStats?.contractCount);
+  return isContractLike(item) ? 1 : 0;
+}
+
+function approvedSpendingAmount(item) {
+  if (item.isArchiveRecord) {
+    const fiscalYear = els.fiscalYearFilter?.value || "all";
+    if (fiscalYear === "all" || fiscalYear === budgetDashboardData?.fiscalYear) return 0;
+    return numeric(item.archiveStats?.spendingTotal || item.amount);
+  }
+  return item.status === "passed" ? spendingAmount(item) : 0;
+}
+
+function displaySpendingAmount(item) {
+  if (item.isArchiveRecord) return numeric(item.archiveStats?.spendingTotal || item.amount);
+  return spendingAmount(item);
+}
+
+function fiscalYearForActiveView() {
+  return els.fiscalYearFilter.value;
+}
+
 function renderBudgetHealth(items) {
   const fiscalYear = els.fiscalYearFilter.value;
   const budgetLines =
     fiscalYear === "all"
-      ? state.budgetLines
+      ? []
       : state.budgetLines.filter((line) => line.fiscalYear === fiscalYear);
   const spending = items
-    .filter((item) => item.status === "passed")
-    .reduce((sum, item) => sum + spendingAmount(item), 0);
+    .reduce((sum, item) => sum + approvedSpendingAmount(item), 0);
   const approvedBudget = budgetReferenceTotal(fiscalYear, budgetLines);
-  const syntheticBudget = approvedBudget || Math.max(60000000, spending * 1.28);
-  const percent = syntheticBudget ? Math.min(100, Math.round((spending / syntheticBudget) * 100)) : 0;
+  const hasBudgetReference = approvedBudget > 0;
+  const budgetBase = hasBudgetReference ? approvedBudget : 0;
+  const percent = hasBudgetReference ? Math.round((spending / approvedBudget) * 100) : 0;
+  const meterPercent = Math.min(100, percent);
   const variance = approvedBudget - spending;
+  const noBudgetMessage =
+    fiscalYear === "all"
+      ? "Select a fiscal year for budget pace"
+      : `No ${escapeHtml(fiscalYear)} budget reference loaded`;
 
   if (els.budgetMeterFill) {
-    els.budgetMeterFill.style.width = `${percent}%`;
+    els.budgetMeterFill.style.width = `${meterPercent}%`;
     els.budgetMeterFill.style.background = percent > 100 ? "var(--red)" : percent > 85 ? "var(--amber)" : "var(--green)";
   }
-  if (els.budgetHealthLabel) els.budgetHealthLabel.textContent = `${percent}% budget pace`;
+  if (els.budgetHealthLabel) els.budgetHealthLabel.textContent = hasBudgetReference ? `${percent}% budget pace` : noBudgetMessage;
   if (els.budgetSummary) {
     els.budgetSummary.innerHTML = [
-      summaryLine("Approved budget", approvedBudget ? currency.format(approvedBudget) : "Budget reference needed"),
+      summaryLine("Approved budget", hasBudgetReference ? currency.format(approvedBudget) : noBudgetMessage),
       summaryLine("Authorized spending", currency.format(spending)),
-      summaryLine("Remaining budget", approvedBudget ? currency.format(variance) : "Estimated until budget data is loaded"),
+      summaryLine("Remaining budget", hasBudgetReference ? currency.format(variance) : "Not calculated across fiscal years"),
     ].join("");
   }
   if (els.spendingGauge) {
     els.spendingGauge.innerHTML = `
-      <div class="gauge" style="--pct:${percent}">
+      <div class="gauge" style="--pct:${meterPercent}">
         <div class="gauge-inner">
           <div>
-            <strong>${percent}%</strong>
-            <span>${currency.format(spending)}<br />of ${currency.format(syntheticBudget)}</span>
+            <strong>${hasBudgetReference ? `${percent}%` : "N/A"}</strong>
+            <span>${currency.format(spending)}<br />${hasBudgetReference ? `of ${currency.format(approvedBudget)}` : "budget not loaded"}</span>
           </div>
         </div>
       </div>
     `;
   }
-  renderDeptDonuts(items, syntheticBudget);
-  renderTrendChart(spending, syntheticBudget);
+  renderDeptDonuts(items, budgetBase);
+  renderTrendChart(spending, budgetBase, hasBudgetReference);
 }
 
 function budgetReferenceTotal(fiscalYear, budgetLines) {
-  if (budgetDashboardData?.budgetSummary?.totalAppropriations && (fiscalYear === "all" || fiscalYear === budgetDashboardData.fiscalYear)) {
+  if (budgetDashboardData?.budgetSummary?.totalAppropriations && fiscalYear === budgetDashboardData.fiscalYear) {
     return numeric(budgetDashboardData.budgetSummary.totalAppropriations);
   }
   const totalLine = budgetLines.find((line) => /total appropriations/i.test(line.category || ""));
@@ -473,14 +607,14 @@ function renderRecentActions(items) {
   els.recentActions.innerHTML = recent
     .map((item) => `
       <article class="timeline-item">
-        <span class="timeline-dot">${item.status === "postponed" ? "-" : item.status === "passed" ? "Y" : "?"}</span>
+        <span class="timeline-dot">${item.status === "archived" ? "A" : item.status === "postponed" ? "-" : item.status === "passed" ? "Y" : "?"}</span>
         <div>
           <h4>${escapeHtml(item.title)}</h4>
           <p>
             ${escapeHtml(formatDate(item.meetingDate))} · ${titleCase(item.type)} · ${titleCase(item.status)}
             ${item.resolutionNumber ? ` · ${escapeHtml(item.resolutionNumber)}` : ""}
             ${item.ordinanceNumber ? ` · ${escapeHtml(item.ordinanceNumber)}` : ""}
-            ${numeric(item.amount) ? ` · ${currency.format(numeric(item.amount))}` : ""}
+            ${displaySpendingAmount(item) ? ` · ${currency.format(displaySpendingAmount(item))}` : ""}
           </p>
         </div>
       </article>
@@ -491,7 +625,7 @@ function renderRecentActions(items) {
 function renderDashboardLegislationTable(items) {
   if (!els.dashboardLegislationTable) return;
   const rows = [...items]
-    .sort((a, b) => Math.abs(spendingAmount(b)) - Math.abs(spendingAmount(a)))
+    .sort((a, b) => Math.abs(approvedSpendingAmount(b)) - Math.abs(approvedSpendingAmount(a)) || String(b.meetingDate).localeCompare(String(a.meetingDate)))
     .slice(0, 10);
   els.dashboardLegislationTable.innerHTML = `
     <table>
@@ -516,7 +650,7 @@ function renderDashboardLegislationTable(items) {
               <td>${escapeHtml(formatDate(item.dateIntroduced || item.meetingDate))}</td>
               <td><span class="status-pill status-${item.status}">${escapeHtml(item.status)}</span></td>
               <td>${escapeHtml(voteResult(item))}</td>
-              <td class="money">${numeric(item.amount) ? currency.format(numeric(item.amount)) : "-"}</td>
+              <td class="money">${displaySpendingAmount(item) ? currency.format(displaySpendingAmount(item)) : "-"}</td>
             </tr>
           `)
           .join("")}
@@ -579,7 +713,7 @@ function renderFlowBoard(items, statusCounts) {
   const typeOrder = ["resolution", "ordinance", "contract", "spending", "discussion", "other"];
   const typeCounts = countBy(items, (item) => item.type || "other");
   const typeEntries = orderedCountEntries(typeCounts, typeOrder, titleCase);
-  const statusOrder = ["pending", "passed", "failed", "postponed", "withdrawn"];
+  const statusOrder = ["pending", "passed", "failed", "postponed", "withdrawn", "archived"];
   const outcomeEntries = statusOrder
     .map((status) => ({ key: status, label: titleCase(status), count: statusCounts.find((entry) => entry.status === status)?.count || 0 }))
     .filter((entry) => entry.count > 0);
@@ -731,13 +865,18 @@ function inferSponsor(item) {
   return member ? shortCouncilName(member) : "No sponsor listed";
 }
 
-function renderDeptDonuts(items, syntheticBudget) {
+function renderDeptDonuts(items, budgetBase) {
   if (!els.deptDonuts) return;
   const categories = categoryTotals(items).slice(0, 4);
+  if (!categories.length) {
+    els.deptDonuts.innerHTML = `<div class="empty">No spending categories are recorded for this fiscal year.</div>`;
+    return;
+  }
   const max = Math.max(1, ...categories.map((entry) => entry.amount));
   els.deptDonuts.innerHTML = categories
     .map((entry) => {
-      const pct = Math.max(8, Math.round((entry.amount / Math.min(max * 1.35, syntheticBudget)) * 100));
+      const denominator = budgetBase ? Math.min(max * 1.35, budgetBase) : max;
+      const pct = Math.max(8, Math.min(100, Math.round((entry.amount / denominator) * 100)));
       return `
         <div class="mini-donut">
           <div class="donut" style="--pct:${pct}%">${pct}%</div>
@@ -751,12 +890,12 @@ function renderDeptDonuts(items, syntheticBudget) {
     .join("");
 }
 
-function renderTrendChart(spending, syntheticBudget) {
+function renderTrendChart(spending, budgetBase, hasBudgetReference) {
   if (!els.trendChart) return;
   els.trendChart.innerHTML = `
     <div class="trend-line target"></div>
     <div class="trend-line actual"></div>
-    <span class="trend-label target">Budget ${currency.format(syntheticBudget)}</span>
+    <span class="trend-label target">${hasBudgetReference ? `Budget ${currency.format(budgetBase)}` : "Budget not loaded"}</span>
     <span class="trend-label actual">Actual ${currency.format(spending)}</span>
   `;
 }
@@ -839,7 +978,7 @@ function renderItemsTable() {
       <tbody>
         ${items
           .map((item) => `
-            <tr>
+            <tr data-item-row="${escapeHtml(item.id)}" class="${item.id === focusedItemId ? "focused-item-row" : ""}">
               <td>
                 <strong>${escapeHtml(item.title)}</strong><br />
                 <span class="action-meta">${titleCase(item.type)}</span>
@@ -849,10 +988,14 @@ function renderItemsTable() {
               </td>
               <td><span class="status-pill status-${item.status}">${escapeHtml(item.status)}</span></td>
               <td>${escapeHtml(formatDate(item.meetingDate))}</td>
-              <td class="money">${numeric(item.amount) ? `${currency.format(numeric(item.amount))}<br /><span class="action-meta">${escapeHtml(amountTypeLabel(item.amountType))}</span>` : "-"}</td>
+              <td class="money">${displaySpendingAmount(item) ? `${currency.format(displaySpendingAmount(item))}<br /><span class="action-meta">${escapeHtml(item.isArchiveRecord ? "Archive estimate" : amountTypeLabel(item.amountType))}</span>` : "-"}</td>
               <td>${escapeHtml(item.budgetCategory || "-")}</td>
               <td>
-                <button class="button secondary compact" type="button" data-edit-item="${item.id}">Edit</button>
+                ${
+                  item.isArchiveRecord
+                    ? `<span class="archive-label">Archive</span>`
+                    : `<button class="button secondary compact" type="button" data-edit-item="${item.id}">Edit</button>`
+                }
               </td>
             </tr>
           `)
@@ -1799,11 +1942,11 @@ function truncate(value, maxLength) {
 function categoryTotals(items) {
   const totals = new Map();
   items
-    .filter((item) => item.status === "passed" && spendingAmount(item) > 0)
+    .filter((item) => approvedSpendingAmount(item) > 0)
     .forEach((item) => {
       const category = item.budgetCategory || "Unassigned";
       const current = totals.get(category) || { category, amount: 0, count: 0 };
-      current.amount += spendingAmount(item);
+      current.amount += approvedSpendingAmount(item);
       current.count += 1;
       totals.set(category, current);
     });

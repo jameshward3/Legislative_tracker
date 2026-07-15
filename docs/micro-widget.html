@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Orange Legislative Tracker Micro Widget</title>
+    <link rel="stylesheet" href="micro-widget.css" />
+  </head>
+  <body>
+    <main class="widget-shell" aria-label="City of Orange legislative tracker summary widget">
+      <header>
+        <div>
+          <p>City of Orange</p>
+          <h1>Legislative Tracker</h1>
+        </div>
+        <a id="openFullTracker" href="index.html" target="_blank" rel="noopener">Open tracker</a>
+      </header>
+
+      <section class="widget-grid">
+        <article class="metric-card">
+          <span>Total legislative items this year</span>
+          <strong id="totalItems">--</strong>
+          <small id="meetingCount">-- meetings tracked</small>
+        </article>
+
+        <article class="spending-card">
+          <div>
+            <span>Spending approved YTD</span>
+            <strong id="spentYtd">--</strong>
+            <small id="budgetPace">-- budget pace</small>
+          </div>
+          <div id="spendingGauge" class="mini-gauge" aria-label="Spending overview chart"></div>
+        </article>
+      </section>
+
+      <section class="activity-card">
+        <div class="section-title">
+          <h2>Meeting Timeline / Activity Feed</h2>
+          <span id="activityCount"></span>
+        </div>
+        <div id="activityFeed" class="activity-feed" role="listbox" aria-label="Select a legislative item"></div>
+      </section>
+
+      <section id="selectedItem" class="selected-card" aria-live="polite"></section>
+    </main>
+
+    <script src="budget-dashboard-data.js"></script>
+    <script src="seed-data.js"></script>
+    <script src="imported-history-data.js"></script>
+    <script src="archive-meeting-data.js"></script>
+    <script src="site-update-data.js"></script>
+    <script src="micro-widget.js"></script>
+  </body>
+</html>
