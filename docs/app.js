@@ -290,6 +290,7 @@ function applyInitialFocusFromQuery() {
 }
 
 function render() {
+  renderDataUpdatedLabel();
   syncFiscalYears();
   syncMeetingDates();
   syncBudgetCategories();
@@ -299,6 +300,30 @@ function render() {
   renderMemberScorecards();
   renderCouncilMembers();
   renderAdminGate();
+}
+
+function renderDataUpdatedLabel() {
+  const generatedAt = window.ORANGE_TRACKER_SEED?.siteUpdateSummary?.generatedAt;
+  if (!generatedAt) {
+    els.dataUpdatedLabel.textContent = "Data updated: unavailable";
+    return;
+  }
+
+  const generatedDate = new Date(generatedAt);
+  if (Number.isNaN(generatedDate.getTime())) {
+    els.dataUpdatedLabel.textContent = `Data updated: ${generatedAt}`;
+    return;
+  }
+
+  const formatted = generatedDate.toLocaleString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    timeZoneName: "short",
+  });
+  els.dataUpdatedLabel.textContent = `Data updated: ${formatted}`;
 }
 
 function renderAdminGate() {
