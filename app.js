@@ -235,13 +235,17 @@ function bindEvents() {
 function loadState() {
   try {
     const stored = localStorage.getItem(STORAGE_KEY);
-    if (!stored) return structuredClone(defaultState);
+    if (!stored) {
+      const initialState = structuredClone(defaultState);
+      initialState.councilMembers = [...ACTIVE_COUNCIL_MEMBERS];
+      return initialState;
+    }
     const saved = JSON.parse(stored);
     const base = structuredClone(defaultState);
     return {
       ...base,
       ...saved,
-      councilMembers: currentCouncilRoster(saved.councilMembers, ACTIVE_COUNCIL_MEMBERS),
+      councilMembers: [...ACTIVE_COUNCIL_MEMBERS],
       items: mergeById(base.items, saved.items || []),
       budgetLines: mergeById(base.budgetLines, filterSavedBudgetLines(saved.budgetLines || [])),
     };
@@ -267,16 +271,6 @@ function mergeById(baseItems, savedItems) {
   const merged = new Map(baseItems.map((entry) => [entry.id, entry]));
   savedItems.forEach((entry) => merged.set(entry.id, entry));
   return [...merged.values()];
-}
-
-function currentCouncilRoster(savedMembers, officialMembers) {
-  if (!savedMembers?.length) return officialMembers;
-  const savedIdentities = new Set(savedMembers.map(councilIdentity));
-  const hasFormerMember = savedMembers.some((member) =>
-    ["tency a eason", "jamie b summers johnson"].includes(councilIdentity(member)),
-  );
-  const isMissingOfficialMember = officialMembers.some((member) => !savedIdentities.has(councilIdentity(member)));
-  return hasFormerMember || isMissingOfficialMember ? officialMembers : savedMembers;
 }
 
 function persist() {
