@@ -1,5 +1,4 @@
 const STORAGE_KEY = "orange-legislative-tracker-v2";
-const ADMIN_PASSWORD = "win07050";
 const ADMIN_SESSION_KEY = "orange-legislative-tracker-admin-unlocked";
 
 const currency = new Intl.NumberFormat("en-US", {
@@ -59,6 +58,16 @@ const fallbackState = {
 
 const defaultState = window.ORANGE_TRACKER_SEED || fallbackState;
 const budgetDashboardData = window.ORANGE_BUDGET_DASHBOARD_DATA || null;
+const MEMBER_RECORD_START_DATE = "2026-07-01";
+const ACTIVE_COUNCIL_MEMBERS = [
+  "Hon. Kerry J. Coley",
+  "Hon. Quantavia L. Hilbert",
+  "Hon. Lynn A. Ogbourne",
+  "Hon. James H. Ward III",
+  "Hon. Weldon M. Montague, III",
+  "Hon. Clifford R. Ross",
+  "Hon. Adrienne K. Wooten",
+];
 const councilProfiles = {
   "Adrienne K. Wooten": {
     role: "Council President",
@@ -67,25 +76,18 @@ const councilProfiles = {
     termExpires: "June 30, 2028",
     photoUrl: "assets/council/adrienne-wooten.jpeg",
   },
-  "Tency A. Eason": {
-    role: "Council Vice President, North Ward Councilmember",
-    email: "teason@orangenj.gov",
-    phone: "(973) 651-7439",
-    termExpires: "June 30, 2026",
-    photoUrl: "assets/council/tency-eason.jpeg",
-  },
   "Kerry J. Coley": {
     role: "East Ward Councilmember",
     email: "KColey@orangenj.gov",
     phone: "(973) 317-4039",
-    termExpires: "June 30, 2026",
+    termExpires: "June 30, 2030",
     photoUrl: "assets/council/kerry-coley.jpeg",
   },
   "Quantavia L. Hilbert": {
     role: "West Ward Councilmember",
     email: "qhilbert@orangenj.gov",
     phone: "(201) 341-2870",
-    termExpires: "June 30, 2026",
+    termExpires: "June 30, 2030",
     photoUrl: "assets/council/quantavia-hilbert.jpeg",
   },
   "Weldon M. Montague, III": {
@@ -102,12 +104,19 @@ const councilProfiles = {
     termExpires: "June 30, 2028",
     photoUrl: "assets/council/clifford-ross.jpeg",
   },
-  "Jamie B. Summers-Johnson": {
+  "Lynn A. Ogbourne": {
+    role: "North Ward Councilmember",
+    email: "logbourne@orangenj.gov",
+    phone: "(862) 837-2646",
+    termExpires: "June 30, 2030",
+    photoUrl: "assets/council/lynn-ogbourne.jpeg",
+  },
+  "James H. Ward III": {
     role: "South Ward Councilmember",
-    email: "jsummers@orangenj.gov",
-    phone: "(862) 272-1155",
-    termExpires: "June 30, 2026",
-    photoUrl: "assets/council/jamie-summers-johnson.jpeg",
+    email: "jward@orangenj.gov",
+    phone: "(973) 280-5696",
+    termExpires: "June 30, 2030",
+    photoUrl: "assets/council/james-ward.jpeg",
   },
 };
 
@@ -234,7 +243,7 @@ function loadState() {
     return {
       ...base,
       ...saved,
-      councilMembers: saved.councilMembers?.length ? saved.councilMembers : base.councilMembers,
+      councilMembers: currentCouncilRoster(saved.councilMembers, ACTIVE_COUNCIL_MEMBERS),
       items: mergeById(base.items, saved.items || []),
       budgetLines: mergeById(base.budgetLines, filterSavedBudgetLines(saved.budgetLines || [])),
     };
@@ -260,6 +269,16 @@ function mergeById(baseItems, savedItems) {
   const merged = new Map(baseItems.map((entry) => [entry.id, entry]));
   savedItems.forEach((entry) => merged.set(entry.id, entry));
   return [...merged.values()];
+}
+
+function currentCouncilRoster(savedMembers, officialMembers) {
+  if (!savedMembers?.length) return officialMembers;
+  const savedIdentities = new Set(savedMembers.map(councilIdentity));
+  const hasFormerMember = savedMembers.some((member) =>
+    ["tency a eason", "jamie b summers johnson"].includes(councilIdentity(member)),
+  );
+  const isMissingOfficialMember = officialMembers.some((member) => !savedIdentities.has(councilIdentity(member)));
+  return hasFormerMember || isMissingOfficialMember ? officialMembers : savedMembers;
 }
 
 function persist() {
@@ -334,13 +353,9 @@ function renderAdminGate() {
 }
 
 function unlockAdmin() {
-  if (els.adminPassword.value === ADMIN_PASSWORD) {
-    sessionStorage.setItem(ADMIN_SESSION_KEY, "true");
-    els.adminPassword.value = "";
-    renderAdminGate();
-    return;
-  }
-  els.adminPasswordError.textContent = "Incorrect password.";
+  sessionStorage.removeItem(ADMIN_SESSION_KEY);
+  els.adminPassword.value = "";
+  els.adminPasswordError.textContent = "Admin editing is unavailable in the public dashboard.";
 }
 
 function lockAdmin() {
@@ -690,6 +705,7 @@ function renderVoteMatrix(items) {
     .filter((item) => Object.keys(item.votes || {}).length)
     .sort((a, b) => Math.abs(spendingAmount(b)) - Math.abs(spendingAmount(a)))
     .slice(0, 6);
+  const matrixMembers = [...new Set(voteItems.flatMap((item) => Object.keys(item.votes || {})))];
 
   els.voteMatrix.innerHTML = `
     <table>
@@ -700,11 +716,11 @@ function renderVoteMatrix(items) {
         </tr>
       </thead>
       <tbody>
-        ${state.councilMembers
+        ${matrixMembers
           .map((member) => `
             <tr>
               <td><strong>${escapeHtml(shortCouncilName(member))}</strong></td>
-              ${voteItems.map((item) => `<td>${voteToken(item.votes?.[member])}</td>`).join("")}
+              ${voteItems.map((item) => `<td>${voteToken(voteForMember(item, member))}</td>`).join("")}
             </tr>
           `)
           .join("")}
@@ -884,7 +900,7 @@ function groupedLinks(items, fromFn, toFn) {
 function inferSponsor(item) {
   const text = `${item.title || ""} ${item.discussion || ""} ${item.publicComments || ""}`;
   const member = state.councilMembers.find((name) => {
-    const lastName = shortCouncilName(name).split(/\s+/).at(-1);
+    const lastName = councilSurname(name);
     return lastName && new RegExp(`\\b${escapeRegExp(lastName)}\\b`, "i").test(text);
   });
   return member ? shortCouncilName(member) : "No sponsor listed";
@@ -1165,10 +1181,10 @@ function renderMemberScorecards() {
     <section class="member-hero surface">
       <img class="member-portrait" src="${escapeHtml(profile.photoUrl || memberPortraitDataUri(selectedPublicMember, memberIndex))}" alt="${escapeHtml(shortCouncilName(selectedPublicMember))} headshot" />
       <div>
-        <p class="eyebrow">Public scorecard</p>
+        <p class="eyebrow">Council public record</p>
         <h3>${escapeHtml(shortCouncilName(selectedPublicMember))}</h3>
         <p class="member-role">${escapeHtml(profile.role || "Councilmember")}</p>
-        <p>Tracks introduced legislation, vote behavior, participation, and budget impact from the currently loaded agenda and minutes history.</p>
+        <p>Tracks recorded legislative activity, participation, and budget decisions from July 1, 2026 forward. Earlier council actions remain available in the legislative archive.</p>
         <div class="member-contact-grid">
           ${profile.email ? `<a href="mailto:${escapeHtml(profile.email)}">${escapeHtml(profile.email)}</a>` : ""}
           ${profile.phone ? `<a href="tel:${escapeHtml(profile.phone.replace(/[^0-9+]/g, ""))}">${escapeHtml(profile.phone)}</a>` : ""}
@@ -1237,35 +1253,36 @@ function renderMemberScorecards() {
 }
 
 function memberScorecard(member) {
-  const sponsoredItems = state.items.filter((item) => inferSponsor(item) === shortCouncilName(member));
-  const votedItems = state.items.filter((item) => hasVoteValue(item.votes?.[member]));
+  const recordItems = state.items.filter((item) => memberRecordDate(item) >= MEMBER_RECORD_START_DATE);
+  const sponsoredItems = recordItems.filter((item) => inferSponsor(item) === shortCouncilName(member));
+  const votedItems = recordItems.filter((item) => hasVoteValue(voteForMember(item, member)));
   const voteCounts = votedItems.reduce((counts, item) => {
-    const vote = normalizeVoteValue(item.votes?.[member]);
+    const vote = normalizeVoteValue(voteForMember(item, member));
     counts[vote] = (counts[vote] || 0) + 1;
     return counts;
   }, {});
   const supportedSpending = votedItems
-    .filter((item) => normalizeVoteValue(item.votes?.[member]) === "yes")
+    .filter((item) => normalizeVoteValue(voteForMember(item, member)) === "yes")
     .reduce((sum, item) => sum + spendingAmount(item), 0);
   const opposedSpending = votedItems
-    .filter((item) => normalizeVoteValue(item.votes?.[member]) === "no")
+    .filter((item) => normalizeVoteValue(voteForMember(item, member)) === "no")
     .reduce((sum, item) => sum + spendingAmount(item), 0);
   const notVotingSpending = votedItems
-    .filter((item) => ["abstain", "absent", "recused"].includes(normalizeVoteValue(item.votes?.[member])))
+    .filter((item) => ["abstain", "absent", "recused"].includes(normalizeVoteValue(voteForMember(item, member))))
     .reduce((sum, item) => sum + spendingAmount(item), 0);
   const supportedRevenue = votedItems
-    .filter((item) => normalizeVoteValue(item.votes?.[member]) === "yes")
+    .filter((item) => normalizeVoteValue(voteForMember(item, member)) === "yes")
     .reduce((sum, item) => sum + revenueAmount(item), 0);
   const supportedByCategory = new Map();
   votedItems
-    .filter((item) => normalizeVoteValue(item.votes?.[member]) === "yes" && spendingAmount(item) > 0)
+    .filter((item) => normalizeVoteValue(voteForMember(item, member)) === "yes" && spendingAmount(item) > 0)
     .forEach((item) => {
       const category = item.budgetCategory || "Unassigned";
       supportedByCategory.set(category, (supportedByCategory.get(category) || 0) + spendingAmount(item));
     });
-  const votableItems = state.items.filter((item) => Object.keys(item.votes || {}).length);
+  const votableItems = recordItems.filter((item) => Object.keys(item.votes || {}).length);
   const meetings = new Set(votedItems.map((item) => item.meetingDate).filter(Boolean)).size || 1;
-  const attendance = memberAttendance(member);
+  const attendance = memberAttendance(member, recordItems);
   return {
     sponsoredItems,
     votedItems,
@@ -1281,9 +1298,9 @@ function memberScorecard(member) {
   };
 }
 
-function memberAttendance(member) {
+function memberAttendance(member, recordItems = state.items) {
   const meetingMap = new Map();
-  state.items
+  recordItems
     .filter((item) => item.meetingDate && Object.keys(item.votes || {}).length)
     .forEach((item) => {
       if (!meetingMap.has(item.meetingDate)) meetingMap.set(item.meetingDate, []);
@@ -1292,7 +1309,7 @@ function memberAttendance(member) {
   const meetings = [...meetingMap.entries()]
     .sort((a, b) => b[0].localeCompare(a[0]))
     .map(([date, items]) => {
-      const votes = items.map((item) => normalizeVoteValue(item.votes?.[member]));
+      const votes = items.map((item) => normalizeVoteValue(voteForMember(item, member)));
       const recorded = votes.filter((vote) => vote !== "unknown");
       const presentVotes = recorded.filter((vote) => !["absent", "recused"].includes(vote));
       const absentVotes = recorded.filter((vote) => vote === "absent");
@@ -1366,7 +1383,7 @@ function memberVoteTable(items, member) {
           ${items.map((item) => `
             <tr>
               <td><strong>${escapeHtml(truncate(item.title, 92))}</strong><br /><span class="action-meta">${escapeHtml(item.resolutionNumber || item.ordinanceNumber || formatDate(item.meetingDate))}</span></td>
-              <td>${voteToken(item.votes?.[member])}</td>
+              <td>${voteToken(voteForMember(item, member))}</td>
               <td>${escapeHtml(item.budgetCategory || "-")}</td>
               <td class="money">${currency.format(spendingAmount(item) || revenueAmount(item))}<br /><span class="action-meta">${escapeHtml(amountTypeLabel(item.amountType))}</span></td>
             </tr>
@@ -1432,6 +1449,26 @@ function normalizeVoteValue(value) {
   if (normalized === "aye") return "yes";
   if (normalized === "nay") return "no";
   return "unknown";
+}
+
+function memberRecordDate(item) {
+  return String(item.meetingDate || item.dateIntroduced || "");
+}
+
+function councilIdentity(name) {
+  return shortCouncilName(name)
+    .toLowerCase()
+    .replace(/\biii\b/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function voteForMember(item, member) {
+  const votes = item.votes || {};
+  if (Object.prototype.hasOwnProperty.call(votes, member)) return votes[member];
+  const identity = councilIdentity(member);
+  const matchingKey = Object.keys(votes).find((name) => councilIdentity(name) === identity);
+  return matchingKey ? votes[matchingKey] : "";
 }
 
 function hasVoteValue(value) {
@@ -1957,6 +1994,12 @@ function shortCouncilName(name) {
     .replace("Council President ", "")
     .replace("Council Vice President ", "")
     .trim();
+}
+
+function councilSurname(name) {
+  const parts = shortCouncilName(name).replace(/,/g, "").split(/\s+/).filter(Boolean);
+  while (parts.length > 1 && /^(jr|sr|ii|iii|iv)$/i.test(parts.at(-1))) parts.pop();
+  return parts.at(-1) || "";
 }
 
 function truncate(value, maxLength) {
