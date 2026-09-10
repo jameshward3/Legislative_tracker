@@ -250,7 +250,7 @@ function loadState() {
       budgetLines: mergeById(base.budgetLines, filterSavedBudgetLines(saved.budgetLines || [])),
     };
   } catch {
-    return structuredClone(defaultState);
+    return { ...structuredClone(defaultState), councilMembers: [...ACTIVE_COUNCIL_MEMBERS] };
   }
 }
 
@@ -952,14 +952,11 @@ function budgetSourceMetric(label, value) {
 
 function renderMemberScorecards() {
   if (!els.memberToggle || !els.memberProfile) return;
-  if (!state.councilMembers.length) {
-    els.memberToggle.innerHTML = "";
-    els.memberProfile.innerHTML = `<div class="empty">No council members are configured yet.</div>`;
-    return;
-  }
+  // Public cards use the current roster, never a historical/imported roster.
+  const members = ACTIVE_COUNCIL_MEMBERS;
 
-  if (!state.councilMembers.includes(selectedPublicMember)) selectedPublicMember = state.councilMembers[0];
-  els.memberToggle.innerHTML = state.councilMembers
+  if (!members.includes(selectedPublicMember)) selectedPublicMember = members[0];
+  els.memberToggle.innerHTML = members
     .map((member, index) => {
       const profile = councilProfileFor(member);
       return `
@@ -976,12 +973,12 @@ function renderMemberScorecards() {
 
   els.memberToggle.querySelectorAll("[data-public-member-index]").forEach((button) => {
     button.addEventListener("click", () => {
-      selectedPublicMember = state.councilMembers[Number(button.dataset.publicMemberIndex)];
+      selectedPublicMember = members[Number(button.dataset.publicMemberIndex)];
       renderMemberScorecards();
     });
   });
 
-  const memberIndex = state.councilMembers.indexOf(selectedPublicMember);
+  const memberIndex = members.indexOf(selectedPublicMember);
   const profile = councilProfileFor(selectedPublicMember);
   const summary = memberScorecard(selectedPublicMember);
   const typeEntries = ["resolution", "ordinance", "contract", "spending", "discussion", "other"].map((type) => ({
