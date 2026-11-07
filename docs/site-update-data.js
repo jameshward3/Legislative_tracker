@@ -2,11 +2,11 @@
 (function () {
   const siteSummary = {
   "source": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
-  "generatedAt": "2026-08-23T21:00:38-04:00",
-  "documentCount": 494,
-  "downloadedDocumentCount": 34,
-  "meetingCount": 15,
-  "meetingDateCount": 15,
+  "generatedAt": "2026-11-06T21:00:34-05:00",
+  "documentCount": 703,
+  "downloadedDocumentCount": 56,
+  "meetingCount": 20,
+  "meetingDateCount": 20,
   "years": [
     "2026"
   ]
@@ -27,7 +27,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:11"
+    "updatedAt": "2026-11-06T20:59:26"
   },
   {
     "id": "site-doc-2",
@@ -44,7 +44,7 @@
     "fileSize": 146417,
     "sha256": "9ec4f35ea2c7ee9f2ff0888d8bfb63ffefc71156354f6c200e2d88b8b84100ef",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:12"
+    "updatedAt": "2026-11-06T20:59:27"
   },
   {
     "id": "site-doc-3",
@@ -61,7 +61,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:12"
+    "updatedAt": "2026-11-06T20:59:27"
   },
   {
     "id": "site-doc-4",
@@ -78,7 +78,7 @@
     "fileSize": 539670,
     "sha256": "c59abeab92148619b8a231361b91c65958e1db221cde2a0485885bfa5fedfcff",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-5",
@@ -95,7 +95,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-6",
@@ -112,7 +112,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-7",
@@ -129,7 +129,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-8",
@@ -146,7 +146,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-9",
@@ -163,7 +163,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-10",
@@ -180,7 +180,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-11",
@@ -197,7 +197,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-12",
@@ -214,7 +214,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-13",
@@ -231,7 +231,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-14",
@@ -248,7 +248,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-15",
@@ -265,7 +265,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-16",
@@ -282,7 +282,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-17",
@@ -299,7 +299,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-18",
@@ -316,7 +316,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-19",
@@ -333,7 +333,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-20",
@@ -350,7 +350,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-21",
@@ -367,7 +367,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-22",
@@ -384,7 +384,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-23",
@@ -401,7 +401,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-24",
@@ -418,7 +418,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-25",
@@ -435,7 +435,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-26",
@@ -452,7 +452,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-27",
@@ -469,7 +469,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-28",
@@ -486,7 +486,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-29",
@@ -503,7 +503,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-30",
@@ -520,7 +520,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-31",
@@ -537,7 +537,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-32",
@@ -554,7 +554,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-33",
@@ -571,7 +571,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-34",
@@ -588,7 +588,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-35",
@@ -605,7 +605,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-36",
@@ -622,7 +622,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-37",
@@ -639,7 +639,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-38",
@@ -656,7 +656,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-39",
@@ -673,7 +673,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:28"
   },
   {
     "id": "site-doc-40",
@@ -690,7 +690,7 @@
     "fileSize": 204828,
     "sha256": "afbb0deca64cbceffbb125a42afbed4e698567bc9d780ddf719d5193cb9a5904",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:29"
   },
   {
     "id": "site-doc-41",
@@ -707,7 +707,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:13"
+    "updatedAt": "2026-11-06T20:59:29"
   },
   {
     "id": "site-doc-42",
@@ -724,7 +724,7 @@
     "fileSize": 695707,
     "sha256": "dda749509d36aa454ef208a269a5848401b42fa9b2c342f8de164550389a7275",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-43",
@@ -741,7 +741,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-44",
@@ -758,7 +758,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-45",
@@ -775,7 +775,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-46",
@@ -792,7 +792,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-47",
@@ -809,7 +809,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-48",
@@ -826,7 +826,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-49",
@@ -843,7 +843,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-50",
@@ -860,7 +860,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-51",
@@ -877,7 +877,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-52",
@@ -894,7 +894,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-53",
@@ -911,7 +911,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-54",
@@ -928,7 +928,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-55",
@@ -945,7 +945,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-56",
@@ -962,7 +962,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-57",
@@ -979,7 +979,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-58",
@@ -996,7 +996,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-59",
@@ -1013,7 +1013,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-60",
@@ -1030,7 +1030,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-61",
@@ -1047,7 +1047,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-62",
@@ -1064,7 +1064,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-63",
@@ -1081,7 +1081,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-64",
@@ -1098,7 +1098,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-65",
@@ -1115,7 +1115,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-66",
@@ -1132,7 +1132,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-67",
@@ -1149,7 +1149,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-68",
@@ -1166,7 +1166,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-69",
@@ -1183,7 +1183,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-70",
@@ -1200,7 +1200,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-71",
@@ -1217,7 +1217,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-72",
@@ -1234,7 +1234,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-73",
@@ -1251,7 +1251,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-74",
@@ -1268,7 +1268,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-75",
@@ -1285,7 +1285,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-76",
@@ -1302,7 +1302,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-77",
@@ -1319,7 +1319,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-78",
@@ -1336,7 +1336,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-79",
@@ -1353,7 +1353,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-80",
@@ -1370,7 +1370,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-81",
@@ -1387,7 +1387,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-82",
@@ -1404,7 +1404,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-83",
@@ -1421,7 +1421,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-84",
@@ -1438,7 +1438,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-85",
@@ -1455,7 +1455,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:14"
+    "updatedAt": "2026-11-06T20:59:31"
   },
   {
     "id": "site-doc-86",
@@ -1472,7 +1472,7 @@
     "fileSize": 277839,
     "sha256": "7bba3f6ac678f6cdca6ed9ce7a89fac7e918dc381dca045c7ac68bba0fd0d7f9",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:15"
+    "updatedAt": "2026-11-06T20:59:32"
   },
   {
     "id": "site-doc-88",
@@ -1489,7 +1489,7 @@
     "fileSize": 715449,
     "sha256": "0509f4f1894d445ef38a8f505b685057bc91c10658614975071bab3e8a2e993a",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-89",
@@ -1506,7 +1506,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-90",
@@ -1523,7 +1523,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-91",
@@ -1540,7 +1540,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-92",
@@ -1557,7 +1557,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-93",
@@ -1574,7 +1574,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-94",
@@ -1591,7 +1591,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-95",
@@ -1608,7 +1608,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-96",
@@ -1625,7 +1625,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-97",
@@ -1642,7 +1642,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-98",
@@ -1659,7 +1659,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-99",
@@ -1676,7 +1676,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-100",
@@ -1693,7 +1693,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-101",
@@ -1710,7 +1710,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-102",
@@ -1727,7 +1727,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-103",
@@ -1744,7 +1744,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-104",
@@ -1761,7 +1761,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-105",
@@ -1778,7 +1778,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-106",
@@ -1795,7 +1795,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-107",
@@ -1812,7 +1812,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-108",
@@ -1829,7 +1829,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-109",
@@ -1846,7 +1846,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-110",
@@ -1863,7 +1863,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-111",
@@ -1880,7 +1880,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-112",
@@ -1897,7 +1897,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-113",
@@ -1914,7 +1914,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-114",
@@ -1931,7 +1931,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-115",
@@ -1948,7 +1948,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-116",
@@ -1965,7 +1965,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-117",
@@ -1982,7 +1982,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-118",
@@ -1999,7 +1999,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-119",
@@ -2016,7 +2016,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-120",
@@ -2033,7 +2033,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-121",
@@ -2050,7 +2050,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-122",
@@ -2067,7 +2067,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-123",
@@ -2084,7 +2084,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-124",
@@ -2101,7 +2101,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:34"
   },
   {
     "id": "site-doc-125",
@@ -2118,7 +2118,7 @@
     "fileSize": 203938,
     "sha256": "eadf55dfd92b3035fa22528cf103d9bc8fba910e0c0030ce1eefdf005162c6e4",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:35"
   },
   {
     "id": "site-doc-126",
@@ -2135,7 +2135,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:16"
+    "updatedAt": "2026-11-06T20:59:35"
   },
   {
     "id": "site-doc-127",
@@ -2152,7 +2152,7 @@
     "fileSize": 659307,
     "sha256": "411684cf8cf68a26357183b00c33d5b5053213796ba285427c88efadf5c88dd5",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-128",
@@ -2169,7 +2169,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-129",
@@ -2186,7 +2186,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-130",
@@ -2203,7 +2203,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-131",
@@ -2220,7 +2220,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-132",
@@ -2237,7 +2237,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-133",
@@ -2254,7 +2254,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-134",
@@ -2271,7 +2271,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-135",
@@ -2288,7 +2288,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-136",
@@ -2305,7 +2305,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-137",
@@ -2322,7 +2322,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-138",
@@ -2339,7 +2339,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-139",
@@ -2356,7 +2356,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-140",
@@ -2373,7 +2373,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-141",
@@ -2390,7 +2390,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-142",
@@ -2407,7 +2407,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-143",
@@ -2424,7 +2424,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-144",
@@ -2441,7 +2441,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-145",
@@ -2458,7 +2458,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-146",
@@ -2475,7 +2475,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-147",
@@ -2492,7 +2492,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-148",
@@ -2509,7 +2509,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-149",
@@ -2526,7 +2526,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-150",
@@ -2543,7 +2543,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-151",
@@ -2560,7 +2560,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-152",
@@ -2577,7 +2577,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-153",
@@ -2594,7 +2594,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-154",
@@ -2611,7 +2611,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-155",
@@ -2628,7 +2628,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-156",
@@ -2645,7 +2645,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-157",
@@ -2662,7 +2662,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-158",
@@ -2679,7 +2679,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-159",
@@ -2696,7 +2696,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-160",
@@ -2713,7 +2713,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-161",
@@ -2730,7 +2730,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-162",
@@ -2747,7 +2747,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-163",
@@ -2764,7 +2764,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-164",
@@ -2781,7 +2781,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-165",
@@ -2798,7 +2798,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-166",
@@ -2815,7 +2815,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-167",
@@ -2832,7 +2832,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-168",
@@ -2849,7 +2849,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-169",
@@ -2866,7 +2866,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-170",
@@ -2883,7 +2883,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-171",
@@ -2900,7 +2900,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-172",
@@ -2917,7 +2917,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-173",
@@ -2934,7 +2934,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-174",
@@ -2951,7 +2951,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-175",
@@ -2968,7 +2968,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-176",
@@ -2985,7 +2985,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-177",
@@ -3002,7 +3002,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-178",
@@ -3019,7 +3019,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-179",
@@ -3036,7 +3036,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:17"
+    "updatedAt": "2026-11-06T20:59:36"
   },
   {
     "id": "site-doc-180",
@@ -3053,7 +3053,7 @@
     "fileSize": 226829,
     "sha256": "81ab70bcce4784c6bf688acfbf788b6cbb32cb970864ff2b462a3aa9a2ac2577",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:18"
+    "updatedAt": "2026-11-06T20:59:37"
   },
   {
     "id": "site-doc-181",
@@ -3070,7 +3070,7 @@
     "fileSize": 584721,
     "sha256": "2dd573f622578ac5159af6f92fb98a883235e36429de506f86d028ad83ac9d01",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:19"
+    "updatedAt": "2026-11-06T20:59:38"
   },
   {
     "id": "site-doc-182",
@@ -3087,7 +3087,7 @@
     "fileSize": 93546,
     "sha256": "59604019cbd87dac4a4515596d6caa974335e93d1b883d00353c12c92031b779",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-183",
@@ -3104,7 +3104,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-184",
@@ -3121,7 +3121,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-185",
@@ -3138,7 +3138,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-186",
@@ -3155,7 +3155,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-187",
@@ -3172,7 +3172,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-188",
@@ -3189,7 +3189,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-189",
@@ -3206,7 +3206,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-190",
@@ -3223,7 +3223,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-191",
@@ -3240,7 +3240,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-192",
@@ -3257,7 +3257,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-193",
@@ -3274,7 +3274,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-194",
@@ -3291,7 +3291,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-195",
@@ -3308,7 +3308,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-196",
@@ -3325,7 +3325,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-197",
@@ -3342,7 +3342,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-198",
@@ -3359,7 +3359,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-199",
@@ -3376,7 +3376,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-200",
@@ -3393,7 +3393,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-201",
@@ -3410,7 +3410,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-202",
@@ -3427,7 +3427,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-203",
@@ -3444,7 +3444,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-204",
@@ -3461,7 +3461,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-205",
@@ -3478,7 +3478,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-206",
@@ -3495,7 +3495,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-207",
@@ -3512,7 +3512,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-208",
@@ -3529,7 +3529,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-209",
@@ -3546,7 +3546,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-210",
@@ -3563,7 +3563,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-211",
@@ -3580,7 +3580,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-212",
@@ -3597,7 +3597,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-213",
@@ -3614,7 +3614,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-214",
@@ -3631,7 +3631,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-215",
@@ -3648,7 +3648,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-216",
@@ -3665,7 +3665,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-217",
@@ -3682,7 +3682,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-218",
@@ -3699,7 +3699,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-219",
@@ -3716,7 +3716,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-220",
@@ -3733,7 +3733,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-221",
@@ -3750,7 +3750,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-222",
@@ -3767,7 +3767,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-223",
@@ -3784,7 +3784,7 @@
     "fileSize": 187020,
     "sha256": "7f90155ac608b9d254b3fe5d2eb065095307569cef1eb44f5ff42a3f5bf0c681",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-224",
@@ -3801,7 +3801,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:20"
+    "updatedAt": "2026-11-06T20:59:39"
   },
   {
     "id": "site-doc-225",
@@ -3818,7 +3818,7 @@
     "fileSize": 585524,
     "sha256": "7d2e44495ab5953b37a85e0a83e50654042827a7fcdfbe9afaa5c72004eaf410",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:21"
+    "updatedAt": "2026-11-06T20:59:40"
   },
   {
     "id": "site-doc-226",
@@ -3835,7 +3835,7 @@
     "fileSize": 192997,
     "sha256": "3ad7cc3930a757cfbe77ccff00aba008f13e4425b7105529725f64f5c118c39b",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:22"
+    "updatedAt": "2026-11-06T20:59:41"
   },
   {
     "id": "site-doc-227",
@@ -3852,7 +3852,7 @@
     "fileSize": 87312,
     "sha256": "c1e4ef1c1689d28bdc9a246fed9bdf81984e1d48bd597323ae37e5d56f36a9d3",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:23"
+    "updatedAt": "2026-11-06T20:59:42"
   },
   {
     "id": "site-doc-228",
@@ -3869,7 +3869,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:23"
+    "updatedAt": "2026-11-06T20:59:42"
   },
   {
     "id": "site-doc-229",
@@ -3886,7 +3886,7 @@
     "fileSize": 568934,
     "sha256": "5f2af39c2321eee016001a0a2428a18da9eba6b124be769e1147a3b34fb26f61",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-230",
@@ -3903,7 +3903,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-231",
@@ -3920,7 +3920,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-232",
@@ -3937,7 +3937,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-233",
@@ -3954,7 +3954,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-234",
@@ -3971,7 +3971,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-235",
@@ -3988,7 +3988,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-236",
@@ -4005,7 +4005,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-237",
@@ -4022,7 +4022,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-238",
@@ -4039,7 +4039,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-239",
@@ -4056,7 +4056,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-240",
@@ -4073,7 +4073,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-241",
@@ -4090,7 +4090,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-242",
@@ -4107,7 +4107,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-243",
@@ -4124,7 +4124,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-244",
@@ -4141,7 +4141,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-245",
@@ -4158,7 +4158,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-246",
@@ -4175,7 +4175,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-247",
@@ -4192,7 +4192,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-248",
@@ -4209,7 +4209,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-249",
@@ -4226,7 +4226,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-250",
@@ -4243,7 +4243,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-251",
@@ -4260,7 +4260,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-252",
@@ -4277,7 +4277,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-253",
@@ -4294,7 +4294,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-254",
@@ -4311,7 +4311,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-255",
@@ -4328,7 +4328,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-256",
@@ -4345,7 +4345,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-257",
@@ -4362,7 +4362,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-258",
@@ -4379,7 +4379,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-259",
@@ -4396,7 +4396,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-260",
@@ -4413,7 +4413,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-261",
@@ -4430,7 +4430,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-262",
@@ -4447,7 +4447,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-263",
@@ -4464,7 +4464,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-264",
@@ -4481,7 +4481,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-265",
@@ -4498,7 +4498,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-266",
@@ -4515,7 +4515,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-267",
@@ -4532,7 +4532,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-268",
@@ -4549,7 +4549,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-269",
@@ -4566,7 +4566,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-270",
@@ -4583,7 +4583,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-271",
@@ -4600,7 +4600,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-272",
@@ -4617,7 +4617,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-273",
@@ -4634,7 +4634,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-274",
@@ -4651,7 +4651,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-275",
@@ -4668,7 +4668,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-276",
@@ -4685,7 +4685,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-277",
@@ -4702,7 +4702,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-278",
@@ -4719,7 +4719,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-279",
@@ -4736,7 +4736,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-280",
@@ -4753,7 +4753,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-281",
@@ -4770,7 +4770,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-282",
@@ -4787,7 +4787,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-283",
@@ -4804,7 +4804,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-284",
@@ -4821,7 +4821,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-285",
@@ -4838,7 +4838,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-286",
@@ -4855,7 +4855,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-287",
@@ -4872,7 +4872,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-288",
@@ -4889,7 +4889,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-289",
@@ -4906,7 +4906,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-290",
@@ -4923,7 +4923,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-291",
@@ -4940,7 +4940,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-292",
@@ -4957,7 +4957,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-293",
@@ -4974,7 +4974,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-294",
@@ -4991,7 +4991,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-295",
@@ -5008,7 +5008,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-296",
@@ -5025,7 +5025,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-297",
@@ -5042,7 +5042,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-298",
@@ -5059,7 +5059,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-299",
@@ -5076,7 +5076,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-300",
@@ -5093,7 +5093,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-301",
@@ -5110,7 +5110,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-302",
@@ -5127,7 +5127,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-303",
@@ -5144,7 +5144,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-304",
@@ -5161,7 +5161,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-305",
@@ -5178,7 +5178,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-306",
@@ -5195,7 +5195,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-307",
@@ -5212,7 +5212,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-308",
@@ -5229,7 +5229,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-309",
@@ -5246,7 +5246,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-310",
@@ -5263,7 +5263,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-311",
@@ -5280,7 +5280,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-312",
@@ -5297,7 +5297,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-313",
@@ -5314,7 +5314,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-314",
@@ -5331,7 +5331,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-315",
@@ -5348,7 +5348,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-316",
@@ -5365,7 +5365,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-317",
@@ -5382,7 +5382,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-318",
@@ -5399,7 +5399,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-319",
@@ -5416,7 +5416,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-320",
@@ -5433,7 +5433,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-321",
@@ -5450,7 +5450,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-322",
@@ -5467,7 +5467,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-323",
@@ -5484,7 +5484,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:24"
+    "updatedAt": "2026-11-06T20:59:43"
   },
   {
     "id": "site-doc-324",
@@ -5501,7 +5501,7 @@
     "fileSize": 195132,
     "sha256": "fa0297d42f05fd139622d6ae87aa5fde572cacf16517208b11e079429475c330",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:44"
   },
   {
     "id": "site-doc-325",
@@ -5518,7 +5518,7 @@
     "fileSize": 827501,
     "sha256": "928c7fef0d46dc8351c0e22346076aea3a5f961bfd0fc145c85b62150396d2a9",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-326",
@@ -5535,7 +5535,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-327",
@@ -5552,7 +5552,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-328",
@@ -5569,7 +5569,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-329",
@@ -5586,7 +5586,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-330",
@@ -5603,7 +5603,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-331",
@@ -5620,7 +5620,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-332",
@@ -5637,7 +5637,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-333",
@@ -5654,7 +5654,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-334",
@@ -5671,7 +5671,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-335",
@@ -5688,7 +5688,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-336",
@@ -5705,7 +5705,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-337",
@@ -5722,7 +5722,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-338",
@@ -5739,7 +5739,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-339",
@@ -5756,7 +5756,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-340",
@@ -5773,7 +5773,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-341",
@@ -5790,7 +5790,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-342",
@@ -5807,7 +5807,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-343",
@@ -5824,7 +5824,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-344",
@@ -5841,7 +5841,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-345",
@@ -5858,7 +5858,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-346",
@@ -5875,7 +5875,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-347",
@@ -5892,7 +5892,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-348",
@@ -5909,7 +5909,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-349",
@@ -5926,7 +5926,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-350",
@@ -5943,7 +5943,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-351",
@@ -5960,7 +5960,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-352",
@@ -5977,7 +5977,7 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:25"
+    "updatedAt": "2026-11-06T20:59:45"
   },
   {
     "id": "site-doc-353",
@@ -5994,7 +5994,7 @@
     "fileSize": 307862,
     "sha256": "7908c6b0c191afbafe776e6ae396b261f83d5eddf015e66264ea195ddcca81c9",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:26"
+    "updatedAt": "2026-11-06T20:59:46"
   },
   {
     "id": "site-doc-354",
@@ -6011,7 +6011,7 @@
     "fileSize": 309213,
     "sha256": "9164a21b9da5607aa04e4e5f031f06b64fee670bb7a514101ab9abed5bbbf491",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:27"
+    "updatedAt": "2026-11-06T20:59:47"
   },
   {
     "id": "site-doc-355",
@@ -6028,10 +6028,27 @@
     "fileSize": 202654,
     "sha256": "3ce1c71f0754abcad5ea8ab64d8cf5c4278e03ea7d21cd5d697a9ba855b470b9",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:28"
+    "updatedAt": "2026-11-06T20:59:50"
   },
   {
     "id": "site-doc-356",
+    "year": "2026",
+    "meetingDate": "2026-06-03",
+    "meetingType": "Conference",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "06.03.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "relativePath": "2026/06-03-2026/06.03.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/06.03.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "fileSize": 84038,
+    "sha256": "2870e4b54638f66c7345d4eee62f19cb42e9f31f105a1d26f1618a17230db898",
+    "note": "",
+    "updatedAt": "2026-11-06T20:59:50"
+  },
+  {
+    "id": "site-doc-357",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Regular",
@@ -6045,10 +6062,27 @@
     "fileSize": 777755,
     "sha256": "bbab38bbd62546d9bbeee652a55ee2baf4a5e748b96329b0c71862e72bdea578",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:01"
   },
   {
-    "id": "site-doc-357",
+    "id": "site-doc-358",
+    "year": "2026",
+    "meetingDate": "2026-06-03",
+    "meetingType": "Regular",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "06.03.26-REGULAR-MEETING-MINUTES.pdf",
+    "relativePath": "2026/06-03-2026/06.03.26-REGULAR-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/06.03.26-REGULAR-MEETING-MINUTES.pdf",
+    "fileSize": 864835,
+    "sha256": "e2beb6ed3dc295596709313bc0d52df361b47079ed82ccb6ea3d4f7a07a1623d",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:03"
+  },
+  {
+    "id": "site-doc-359",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6062,10 +6096,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-358",
+    "id": "site-doc-360",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6079,10 +6113,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-359",
+    "id": "site-doc-361",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6096,10 +6130,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-360",
+    "id": "site-doc-362",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6113,10 +6147,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-361",
+    "id": "site-doc-363",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6130,10 +6164,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-362",
+    "id": "site-doc-364",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6147,10 +6181,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-363",
+    "id": "site-doc-365",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6164,10 +6198,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-364",
+    "id": "site-doc-366",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6181,10 +6215,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-365",
+    "id": "site-doc-367",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6198,10 +6232,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-366",
+    "id": "site-doc-368",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6215,10 +6249,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-367",
+    "id": "site-doc-369",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6232,10 +6266,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-368",
+    "id": "site-doc-370",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6249,10 +6283,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-369",
+    "id": "site-doc-371",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6266,10 +6300,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-370",
+    "id": "site-doc-372",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6283,10 +6317,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-371",
+    "id": "site-doc-373",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6300,10 +6334,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-372",
+    "id": "site-doc-374",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6317,10 +6351,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-373",
+    "id": "site-doc-375",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6334,10 +6368,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-374",
+    "id": "site-doc-376",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6351,10 +6385,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-375",
+    "id": "site-doc-377",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6368,10 +6402,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-376",
+    "id": "site-doc-378",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6385,10 +6419,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-377",
+    "id": "site-doc-379",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6402,10 +6436,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-378",
+    "id": "site-doc-380",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6419,10 +6453,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-379",
+    "id": "site-doc-381",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6436,10 +6470,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-380",
+    "id": "site-doc-382",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Legislative Document",
@@ -6453,10 +6487,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:29"
+    "updatedAt": "2026-11-06T21:00:03"
   },
   {
-    "id": "site-doc-381",
+    "id": "site-doc-383",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Regular",
@@ -6470,10 +6504,10 @@
     "fileSize": 309452,
     "sha256": "5e37f354d2ec2588ac1787421f7613458a3de10caf48082a666c383a81d9d5e8",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:30"
+    "updatedAt": "2026-11-06T21:00:04"
   },
   {
-    "id": "site-doc-382",
+    "id": "site-doc-384",
     "year": "2026",
     "meetingDate": "2026-06-03",
     "meetingType": "Regular",
@@ -6487,10 +6521,10 @@
     "fileSize": 313163,
     "sha256": "2621a7ccfed283e8e7826d30fd4b77201f907e2849cdff82355b8c72bb4dee70",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:30"
+    "updatedAt": "2026-11-06T21:00:05"
   },
   {
-    "id": "site-doc-383",
+    "id": "site-doc-385",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Conference",
@@ -6504,10 +6538,27 @@
     "fileSize": 202673,
     "sha256": "0cd45441c009aecd7445fd9165a0d0cf7fe264adf715a712ecaecfff7f00f92d",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:31"
+    "updatedAt": "2026-11-06T21:00:07"
   },
   {
-    "id": "site-doc-384",
+    "id": "site-doc-386",
+    "year": "2026",
+    "meetingDate": "2026-06-16",
+    "meetingType": "Conference",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "06.16.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "relativePath": "2026/06-16-2026/06.16.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/06.16.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "fileSize": 138712,
+    "sha256": "68996f2b9de0edb2c8ef8603bbadf01a13cefca2c841a4523f711178252814a3",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:08"
+  },
+  {
+    "id": "site-doc-387",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Regular",
@@ -6521,10 +6572,27 @@
     "fileSize": 788583,
     "sha256": "9fcb0d6d0d135bb008286e7753960d56c91aea9068897abde3b34d9b02d4960b",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:09"
   },
   {
-    "id": "site-doc-385",
+    "id": "site-doc-388",
+    "year": "2026",
+    "meetingDate": "2026-06-16",
+    "meetingType": "Regular",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "06.16.26-REGULAR-MEETING-MINUTES.pdf",
+    "relativePath": "2026/06-16-2026/06.16.26-REGULAR-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/06.16.26-REGULAR-MEETING-MINUTES.pdf",
+    "fileSize": 1582361,
+    "sha256": "cc5cc0fd9261c813462ceaa5ef9f5be1feb3e48855f3ee643865b070e034008c",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:12"
+  },
+  {
+    "id": "site-doc-389",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6538,10 +6606,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-386",
+    "id": "site-doc-390",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6555,10 +6623,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-387",
+    "id": "site-doc-391",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6572,10 +6640,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-388",
+    "id": "site-doc-392",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6589,10 +6657,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-389",
+    "id": "site-doc-393",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6606,10 +6674,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-390",
+    "id": "site-doc-394",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6623,10 +6691,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-391",
+    "id": "site-doc-395",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6640,10 +6708,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-392",
+    "id": "site-doc-396",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6657,10 +6725,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-393",
+    "id": "site-doc-397",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6674,10 +6742,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-394",
+    "id": "site-doc-398",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6691,10 +6759,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-395",
+    "id": "site-doc-399",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6708,10 +6776,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-396",
+    "id": "site-doc-400",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6725,10 +6793,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-397",
+    "id": "site-doc-401",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6742,10 +6810,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-398",
+    "id": "site-doc-402",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6759,10 +6827,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-399",
+    "id": "site-doc-403",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6776,10 +6844,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-400",
+    "id": "site-doc-404",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6793,10 +6861,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-401",
+    "id": "site-doc-405",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6810,10 +6878,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-402",
+    "id": "site-doc-406",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6827,10 +6895,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-403",
+    "id": "site-doc-407",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6844,10 +6912,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-404",
+    "id": "site-doc-408",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6861,10 +6929,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-405",
+    "id": "site-doc-409",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6878,10 +6946,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-406",
+    "id": "site-doc-410",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6895,10 +6963,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-407",
+    "id": "site-doc-411",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6912,10 +6980,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-408",
+    "id": "site-doc-412",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6929,10 +6997,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-409",
+    "id": "site-doc-413",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6946,10 +7014,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-410",
+    "id": "site-doc-414",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6963,10 +7031,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-411",
+    "id": "site-doc-415",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6980,10 +7048,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-412",
+    "id": "site-doc-416",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -6997,10 +7065,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-413",
+    "id": "site-doc-417",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -7014,10 +7082,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-414",
+    "id": "site-doc-418",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -7031,10 +7099,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-415",
+    "id": "site-doc-419",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -7048,10 +7116,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-416",
+    "id": "site-doc-420",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -7065,10 +7133,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-417",
+    "id": "site-doc-421",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -7082,10 +7150,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-418",
+    "id": "site-doc-422",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -7099,10 +7167,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-419",
+    "id": "site-doc-423",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -7116,10 +7184,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-420",
+    "id": "site-doc-424",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -7133,10 +7201,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-421",
+    "id": "site-doc-425",
     "year": "2026",
     "meetingDate": "2026-06-16",
     "meetingType": "Legislative Document",
@@ -7150,10 +7218,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:32"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-422",
+    "id": "site-doc-426",
     "year": "2026",
     "meetingDate": "2026-06-29",
     "meetingType": "Conference",
@@ -7167,10 +7235,10 @@
     "fileSize": 206198,
     "sha256": "ff7e78c547de3932adfba317550ab4d4bd70fb4d5341126d280742453922e76e",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:33"
+    "updatedAt": "2026-11-06T21:00:12"
   },
   {
-    "id": "site-doc-423",
+    "id": "site-doc-427",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Conference",
@@ -7184,10 +7252,10 @@
     "fileSize": 180944,
     "sha256": "1a1820946e6fdc5cfddd3f1c81d88470cb0b7ac61686854434c77ef5c74614bc",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:33"
+    "updatedAt": "2026-11-06T21:00:13"
   },
   {
-    "id": "site-doc-424",
+    "id": "site-doc-428",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Regular",
@@ -7201,10 +7269,10 @@
     "fileSize": 201451,
     "sha256": "a365741b182ed18b5e78082ea3125aa05d755ab649114e70517698766a93dfde",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:34"
+    "updatedAt": "2026-11-06T21:00:14"
   },
   {
-    "id": "site-doc-425",
+    "id": "site-doc-429",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Regular",
@@ -7218,10 +7286,10 @@
     "fileSize": 655674,
     "sha256": "f6ef365d45c663ce57bb103efd92b55f0529e9b5edf23c7ed8883b876d9f8b56",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:35"
+    "updatedAt": "2026-11-06T21:00:14"
   },
   {
-    "id": "site-doc-426",
+    "id": "site-doc-430",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7235,10 +7303,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:35"
+    "updatedAt": "2026-11-06T21:00:14"
   },
   {
-    "id": "site-doc-427",
+    "id": "site-doc-431",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7252,10 +7320,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:35"
+    "updatedAt": "2026-11-06T21:00:14"
   },
   {
-    "id": "site-doc-428",
+    "id": "site-doc-432",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7269,10 +7337,10 @@
     "fileSize": 731581,
     "sha256": "9711ccb9079884654b71f736d4be97bb9b599930c4a46b209875758e65f74423",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:35"
+    "updatedAt": "2026-11-06T21:00:15"
   },
   {
-    "id": "site-doc-429",
+    "id": "site-doc-433",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7286,10 +7354,10 @@
     "fileSize": 257822,
     "sha256": "067ede72dfcd7da6aa800b11dba37cf947a38e141c68c3d9d8179025ed4c081b",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:36"
+    "updatedAt": "2026-11-06T21:00:16"
   },
   {
-    "id": "site-doc-430",
+    "id": "site-doc-434",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7303,10 +7371,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:36"
+    "updatedAt": "2026-11-06T21:00:16"
   },
   {
-    "id": "site-doc-431",
+    "id": "site-doc-435",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7320,10 +7388,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:36"
+    "updatedAt": "2026-11-06T21:00:16"
   },
   {
-    "id": "site-doc-432",
+    "id": "site-doc-436",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7337,10 +7405,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:36"
+    "updatedAt": "2026-11-06T21:00:16"
   },
   {
-    "id": "site-doc-433",
+    "id": "site-doc-437",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7354,10 +7422,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:36"
+    "updatedAt": "2026-11-06T21:00:16"
   },
   {
-    "id": "site-doc-434",
+    "id": "site-doc-438",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7371,10 +7439,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:36"
+    "updatedAt": "2026-11-06T21:00:16"
   },
   {
-    "id": "site-doc-435",
+    "id": "site-doc-439",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7388,10 +7456,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:36"
+    "updatedAt": "2026-11-06T21:00:16"
   },
   {
-    "id": "site-doc-436",
+    "id": "site-doc-440",
     "year": "2026",
     "meetingDate": "2026-07-01",
     "meetingType": "Legislative Document",
@@ -7405,10 +7473,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:36"
+    "updatedAt": "2026-11-06T21:00:16"
   },
   {
-    "id": "site-doc-437",
+    "id": "site-doc-441",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Conference",
@@ -7422,10 +7490,27 @@
     "fileSize": 201256,
     "sha256": "73cc92648a591b25face64d26ccc05cd4552b1b8bfc5adcae6277b0ae246e0fc",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:37"
+    "updatedAt": "2026-11-06T21:00:17"
   },
   {
-    "id": "site-doc-438",
+    "id": "site-doc-442",
+    "year": "2026",
+    "meetingDate": "2026-08-05",
+    "meetingType": "Conference",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "08.05.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "relativePath": "2026/08-05-2026/08.05.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/08.05.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "fileSize": 268650,
+    "sha256": "45f697fb74775804c31455cc0556e76ef76170d8fe56aab78a921f6ed91bf129",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:18"
+  },
+  {
+    "id": "site-doc-443",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Regular",
@@ -7439,10 +7524,27 @@
     "fileSize": 795846,
     "sha256": "6af3a95bec6cced51c740212a756dfd8ae5e09fd504b06ca6542ee27e87e9781",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:19"
   },
   {
-    "id": "site-doc-439",
+    "id": "site-doc-444",
+    "year": "2026",
+    "meetingDate": "2026-08-05",
+    "meetingType": "Regular",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "08.05.26-REGULAR-MEETING-MINUTES.pdf",
+    "relativePath": "2026/08-05-2026/08.05.26-REGULAR-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/08.05.26-REGULAR-MEETING-MINUTES.pdf",
+    "fileSize": 1144714,
+    "sha256": "9c8349281e97763381702081134d10f072253103ebfb3aab4aafb7bf698691ad",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:21"
+  },
+  {
+    "id": "site-doc-445",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7456,10 +7558,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-440",
+    "id": "site-doc-446",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7473,10 +7575,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-441",
+    "id": "site-doc-447",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7490,10 +7592,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-442",
+    "id": "site-doc-448",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7507,10 +7609,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-443",
+    "id": "site-doc-449",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7524,10 +7626,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-444",
+    "id": "site-doc-450",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7541,10 +7643,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-445",
+    "id": "site-doc-451",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7558,10 +7660,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-446",
+    "id": "site-doc-452",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7575,10 +7677,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-447",
+    "id": "site-doc-453",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7592,10 +7694,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-448",
+    "id": "site-doc-454",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7609,10 +7711,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-449",
+    "id": "site-doc-455",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7626,10 +7728,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-450",
+    "id": "site-doc-456",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7643,10 +7745,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-451",
+    "id": "site-doc-457",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7660,10 +7762,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-452",
+    "id": "site-doc-458",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7677,10 +7779,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-453",
+    "id": "site-doc-459",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7694,10 +7796,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-454",
+    "id": "site-doc-460",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7711,10 +7813,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-455",
+    "id": "site-doc-461",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7728,10 +7830,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-456",
+    "id": "site-doc-462",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7745,10 +7847,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-457",
+    "id": "site-doc-463",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7762,10 +7864,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-458",
+    "id": "site-doc-464",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7779,10 +7881,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-459",
+    "id": "site-doc-465",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7796,10 +7898,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-460",
+    "id": "site-doc-466",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7813,10 +7915,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-461",
+    "id": "site-doc-467",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7830,10 +7932,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-462",
+    "id": "site-doc-468",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7847,10 +7949,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-463",
+    "id": "site-doc-469",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7864,10 +7966,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-464",
+    "id": "site-doc-470",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7881,10 +7983,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-465",
+    "id": "site-doc-471",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7898,10 +8000,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-466",
+    "id": "site-doc-472",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7915,10 +8017,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-467",
+    "id": "site-doc-473",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7932,10 +8034,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-468",
+    "id": "site-doc-474",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7949,10 +8051,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-469",
+    "id": "site-doc-475",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7966,10 +8068,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-470",
+    "id": "site-doc-476",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -7983,10 +8085,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-471",
+    "id": "site-doc-477",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8000,10 +8102,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-472",
+    "id": "site-doc-478",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8017,10 +8119,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-473",
+    "id": "site-doc-479",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8034,10 +8136,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-474",
+    "id": "site-doc-480",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8051,10 +8153,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-475",
+    "id": "site-doc-481",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8068,10 +8170,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-476",
+    "id": "site-doc-482",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8085,10 +8187,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-477",
+    "id": "site-doc-483",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8102,10 +8204,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-478",
+    "id": "site-doc-484",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8119,10 +8221,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-479",
+    "id": "site-doc-485",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8136,10 +8238,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-480",
+    "id": "site-doc-486",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8153,10 +8255,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-481",
+    "id": "site-doc-487",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8170,10 +8272,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-482",
+    "id": "site-doc-488",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8187,10 +8289,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-483",
+    "id": "site-doc-489",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8204,10 +8306,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-484",
+    "id": "site-doc-490",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8221,10 +8323,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-485",
+    "id": "site-doc-491",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8238,10 +8340,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-486",
+    "id": "site-doc-492",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8255,10 +8357,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-487",
+    "id": "site-doc-493",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8272,10 +8374,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-488",
+    "id": "site-doc-494",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8289,10 +8391,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-489",
+    "id": "site-doc-495",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8306,10 +8408,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-490",
+    "id": "site-doc-496",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8323,10 +8425,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-491",
+    "id": "site-doc-497",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8340,10 +8442,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-492",
+    "id": "site-doc-498",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8357,10 +8459,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-493",
+    "id": "site-doc-499",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8374,10 +8476,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-494",
+    "id": "site-doc-500",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8391,10 +8493,10 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
   },
   {
-    "id": "site-doc-495",
+    "id": "site-doc-501",
     "year": "2026",
     "meetingDate": "2026-08-05",
     "meetingType": "Legislative Document",
@@ -8408,7 +8510,3458 @@
     "fileSize": 0,
     "sha256": "",
     "note": "",
-    "updatedAt": "2026-08-23T21:00:38"
+    "updatedAt": "2026-11-06T21:00:21"
+  },
+  {
+    "id": "site-doc-502",
+    "year": "2026",
+    "meetingDate": "2026-08-05",
+    "meetingType": "Legislative Document",
+    "documentType": "Document",
+    "title": "08.24.26 SPECIAL MEETING MINUTES",
+    "status": "downloaded",
+    "fileName": "08.24.26-SPECIAL-MEETING-MINUTES.pdf",
+    "relativePath": "2026/08-05-2026/08.24.26-SPECIAL-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/08.24.26-SPECIAL-MEETING-MINUTES.pdf",
+    "fileSize": 160373,
+    "sha256": "1b077e2515d51ed692978c4598ab6b7452e67b29b85fdc71990ed6020fa8e41e",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:21"
+  },
+  {
+    "id": "site-doc-504",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Conference",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "downloaded",
+    "fileName": "9.1.26-Conference-Agenda-rev.pdf",
+    "relativePath": "2026/09-01-2026/9.1.26-Conference-Agenda-rev.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/09/9.1.26-Conference-Agenda-rev.pdf",
+    "fileSize": 201515,
+    "sha256": "bf0da746446992f9716d4fbc58140fb548db17f6d03eee67c103cf3ef0daa236",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:22"
+  },
+  {
+    "id": "site-doc-505",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Regular",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "downloaded",
+    "fileName": "9.1.26-Regular-Meeting-Agenda-rev.pdf",
+    "relativePath": "2026/09-01-2026/9.1.26-Regular-Meeting-Agenda-rev.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/09/9.1.26-Regular-Meeting-Agenda-rev.pdf",
+    "fileSize": 637243,
+    "sha256": "9a6ee53055cdaa1272ae163dc0889049b9c67eb84caad9300cf3befc91953f9b",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-506",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 30-2026 Parking Utility.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-30-2026-parking-utility-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:54233a13-4a76-48ff-b1b4-92861254371e",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-507",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 32-2026 Secure Bonds.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-32-2026-secure-bonds-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e93e98a1-f3f2-452b-a9cc-18e74b57ae0d",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-508",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 33-2026 Balcony Solar Access.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-33-2026-balcony-solar-access-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:55321379-fc87-4f2b-b36b-d8ca823a66a6",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-509",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 34-2026 Shade Tree.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-34-2026-shade-tree-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c699d6f9-f323-49c7-9f13-99ebe33064f8",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-510",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 35-2026 Traffic Study.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-35-2026-traffic-study-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:89bcbacd-d8ac-42ca-bfec-2b5e15b9e3a3",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-511",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 36-2026 Parking 149 Elm St.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-36-2026-parking-149-elm-st-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5cc8e10c-bcb4-469e-b60b-d1a69556b657",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-512",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 37-2026 Parking 350 Ogden St.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-37-2026-parking-350-ogden-st-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:02156af7-655d-42b2-b129-198238261be0",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-513",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 38-2026 Scattered Sites.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-38-2026-scattered-sites-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:40f1fca5-6e7d-44c6-b011-a228e93e0f2a",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-514",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 28-2026 Data Centers AW.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-28-2026-data-centers-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:757c88e5-9a59-4b04-9428-07753e4ab589",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-515",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 31-2026 Amend. 88 & 200 Code.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-31-2026-amend-88-200-code-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4c9b664a-7377-43e7-b021-e72ac3606360",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-516",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 418-2026 Refund F. Lichtman.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-418-2026-refund-f-lichtman-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:43b0dee9-cebe-4195-969c-43142cd58390",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-517",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 419-2026 FF1 Apparatus.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-419-2026-ff1-apparatus-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8ff1cc58-b630-4786-8e54-54d099ae9088",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-518",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 420-2026 Ovarian Cancer Awareness CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-420-2026-ovarian-cancer-awareness-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1053cdad-2cd4-4dee-8b86-e9af3f4a5a06",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-519",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 421-2026 Suicide Prevention CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-421-2026-suicide-prevention-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c8063183-85ae-4846-bc1f-2ac2cbcd9620",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-520",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 422-2026 Alzheimer\u2019s Day CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-422-2026-alzheimer-s-day-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5930bc08-9482-401c-8d7d-867a29736f3f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-521",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 423-2026 Library Card CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-423-2026-library-card-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8c7a481e-284c-4224-a554-9b485f63c318",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-522",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 424-2026 Capt. Hasan AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-424-2026-capt-hasan-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5ac82095-f249-4961-bc17-2656f782b13f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-523",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 425-2026 Floor Plan Submission AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-425-2026-floor-plan-submission-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:38caa6a1-e552-43b8-9414-ff6d90a79574",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-524",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 426-2026 Italian American AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-426-2026-italian-american-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2b7d4040-35c9-49b0-af8f-534997623af8",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-525",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 427-2026 Hispanic Heritage AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-427-2026-hispanic-heritage-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ef945ad9-284d-4817-b146-8a59ab360b88",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-526",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 428-2026 Rosh Hashanah AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-428-2026-rosh-hashanah-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:599f14c5-003d-43ba-8f58-df4b6e8a3838",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-527",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 429-2026 Voter Registration AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-429-2026-voter-registration-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:19c22ed6-ad55-427f-a9a8-0748b5e9f8dd",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-528",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 430-2026 Pilot Program Hickory AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-430-2026-pilot-program-hickory-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:90acf6b2-42b5-433e-9252-24a4fd7d148d",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-529",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 431-2026 Pilot Program Central Pl AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-431-2026-pilot-program-central-pl-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:55191365-868b-42e0-aca8-fc26b6f2ba03",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-530",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 432 Read a Book AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-432-read-a-book-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e0e47cf2-e2a9-4cb9-b8b1-6cfab21fd655",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-531",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 433-2026 Honoring L. Braxton AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-433-2026-honoring-l-braxton-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7bb49dee-e649-4d57-8ebb-4551f924efab",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-532",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 434-2026 Woodard Curran PFAS.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-434-2026-woodard-curran-pfas-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a5439fca-7cd4-477e-8c6d-2c9d9b05f414",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-533",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 435-2026 Revenue Appropriation.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-435-2026-revenue-appropriation-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:757a28a1-3cb4-415c-b656-57c4c4d01dc4",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-534",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 436-2026 MRRA Water Operations.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-436-2026-mrra-water-operations-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:15652bf3-6950-4f8e-8939-cb7fd2c6fb2e",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-535",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 437-2026 Refund S. Ige.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-437-2026-refund-s-ige-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:0fcf7a17-7b22-4396-b27d-233ea04f0bc2",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-536",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 438-2026 Grant Hazardous Discharge.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-438-2026-grant-hazardous-discharge-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7e29647c-4e22-4b09-852f-430a2a00d1e0",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-537",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 439-2026 HDSRF Colgate Park.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-439-2026-hdsrf-colgate-park-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5e07cc8b-139c-41c7-8c69-0e6163fdfd93",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-538",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 440-2026 Art Design.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-440-2026-art-design-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:77e84ef8-9842-4c76-bdc4-49ad45592bd4",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-539",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 441-2026 Remington.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-441-2026-remington-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9f13a37e-21b4-4b71-acdf-f683f6c6ffb2",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-540",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 442-2026 Newark Asphalt.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-442-2026-newark-asphalt-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:59e57f5f-59fa-45b2-b5dd-ab44de60136f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-541",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 443-2026 Traffic Sinage.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-443-2026-traffic-sinage-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:53bff2d0-d0f7-442c-aa6e-1d5f4b77867a",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-542",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 444-2026 Pav-con Construction.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-444-2026-pav-con-construction-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6e1bedcd-b7d3-4efb-b98c-c3e97334b428",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-543",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 445-2026 4 Clean Up.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-445-2026-4-clean-up-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:34130ef8-6ff9-48cd-8779-90f791064839",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-544",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 446-2026 Cintas.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-446-2026-cintas-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:87922e55-e965-49bc-8f4c-09df49cbc730",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-545",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 447-2026 Cintas Fire Protection.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-447-2026-cintas-fire-protection-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4b546370-9a6c-4d0e-8ea5-d49071c9a369",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-546",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 448-2026 Mansfield Oil.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-448-2026-mansfield-oil-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5ba21c71-e617-4950-b8f8-010a2ca72a4c",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-547",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 449-2026 Petroleum Traders.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-449-2026-petroleum-traders-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ecc1c84f-ccbe-4e73-bed3-81be53abe373",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-548",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 450-2026 Concord Municipal Cons.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-450-2026-concord-municipal-cons-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:df69495e-f3a8-49fe-bc4e-45fbf10a09ce",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-549",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 451-2026 Lewis Consulting.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-451-2026-lewis-consulting-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3493874e-f993-4fbf-9136-9e5834ea1d1f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-550",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 452-2026Hatfield Schwartz.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-452-2026hatfield-schwartz-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a2c64513-d621-4b0d-9074-44197d21781e",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-551",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 453-2026 Local Finance Board.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-453-2026-local-finance-board-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:807b67c6-4211-4c39-86de-b9a05eeee0ec",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-552",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 454-2026 D. Upchurch.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-454-2026-d-upchurch-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:47e55517-9cbd-4c14-962f-4f1e6472dc57",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-553",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 455-2026 Honor S. Baseanoo QH.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-455-2026-honor-s-baseanoo-qh-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2c13f777-5c77-43b4-923a-26f51609ddd6",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-554",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 456-2026 Day if Peace AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-456-2026-day-if-peace-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7a099c15-fb10-490f-944c-5675f9a63393",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-555",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 457-2026 November Election.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-457-2026-november-election-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:19f2442b-d27f-4bbc-aac1-f157b720f019",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-556",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 458-2026 Reappoint T. Scipio.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-458-2026-reappoint-t-scipio-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2a13630a-cf95-4885-a286-487eb9f9ada1",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-557",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 459-2026 Bill List.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-459-2026-bill-list-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3dc6e802-aab0-4f88-a3af-2fd27f467192",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-558",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 363-2026 ZBA K. Cyrus WM.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-363-2026-zba-k-cyrus-wm-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5e93dfa3-b403-4cec-9933-02f3c384a6ba",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-559",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 364-2026 ZBA C. Spencer KC.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-364-2026-zba-c-spencer-kc-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:afb2a903-5de6-4b0a-b5e1-700f95410d20",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-560",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 365-2026 ZBA B. Nicholas LO.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-365-2026-zba-b-nicholas-lo-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:68e63a6f-2ef6-46ed-a9e3-7255c37e6978",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-561",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 413-2026 Zoning Code AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-413-2026-zoning-code-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:000399ae-4635-474d-8347-53f6f6670186",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-562",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Conference",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "downloaded",
+    "fileName": "9.15.26-Special-Meeting-Agenda-compressed.pdf",
+    "relativePath": "2026/09-15-2026/9.15.26-Special-Meeting-Agenda-compressed.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/09/9.15.26-Special-Meeting-Agenda-compressed.pdf",
+    "fileSize": 58922,
+    "sha256": "fc64e6e497955ae96c5587af5289f8b575b7d1f01b495730632fe1f75e066349",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:23"
+  },
+  {
+    "id": "site-doc-563",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Conference",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "09.15.26-SPECIAL-MEETING-MINUTES-PUBLIC.pdf",
+    "relativePath": "2026/09-15-2026/09.15.26-SPECIAL-MEETING-MINUTES-PUBLIC.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/09.15.26-SPECIAL-MEETING-MINUTES-PUBLIC.pdf",
+    "fileSize": 88878,
+    "sha256": "63956a391dcd77bbe154212b417613e951bd5291f2c78d5e9c9a14946db0bdf0",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:24"
+  },
+  {
+    "id": "site-doc-564",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Regular",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "downloaded",
+    "fileName": "9.15.26-Conference-Agenda.pdf",
+    "relativePath": "2026/09-15-2026/9.15.26-Conference-Agenda.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/09/9.15.26-Conference-Agenda.pdf",
+    "fileSize": 201944,
+    "sha256": "aa35bc63a76c8f8eda5216763aa5cf8ee94ba6e28b417c9310ecacfaba46cdda",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:24"
+  },
+  {
+    "id": "site-doc-565",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Regular",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "09.15.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "relativePath": "2026/09-15-2026/09.15.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/09.15.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "fileSize": 117338,
+    "sha256": "c259fab2ae05c67e402ffba76df1a000640853bccbc6e2a7d43947a7c2379360",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:25"
+  },
+  {
+    "id": "site-doc-566",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Regular",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "downloaded",
+    "fileName": "9.15.26-Regular-Meeting-Agenda.pdf",
+    "relativePath": "2026/09-15-2026/9.15.26-Regular-Meeting-Agenda.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/09/9.15.26-Regular-Meeting-Agenda.pdf",
+    "fileSize": 773262,
+    "sha256": "476475fe9de7c3ee374d813d5da542e775625a5ec1ce574e63e65f29df42a886",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:26"
+  },
+  {
+    "id": "site-doc-567",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Regular",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "09.15.26-REGULAR-MEETING-MINUTES.pdf",
+    "relativePath": "2026/09-15-2026/09.15.26-REGULAR-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/09.15.26-REGULAR-MEETING-MINUTES.pdf",
+    "fileSize": 541511,
+    "sha256": "c53f4b2d55135b704983482c6476d1d58f9975ea8a748a60f809d6363296f6f8",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-568",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 39-2026 Handicapped 54 N Essex.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-39-2026-handicapped-54-n-essex-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ae1e0303-e3ae-4d01-8957-54945b43e783",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-569",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 40-2026 Restructuring Code.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-40-2026-restructuring-code-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2599950f-2273-40ce-a22c-a5d96f31993c",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-570",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 41-2026 Scattered Sites JW.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-41-2026-scattered-sites-jw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:63279f56-255a-4232-b8de-e9f7c63d6ae0",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-571",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 42-2026 Traffic Studies JW.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-42-2026-traffic-studies-jw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1d1071d8-a6e4-419f-b686-40e23ac5b283",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-572",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 460-2026 Executive Session.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-460-2026-executive-session-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9f5aa0f8-b688-4e55-a7f1-1cdb849a6037",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-573",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 461-2026 Honoring M Johnson CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-461-2026-honoring-m-johnson-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8710d24e-9e25-4e48-babe-9a94a6fdbf05",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-574",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 462-2026 Honoring R Garretson CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-462-2026-honoring-r-garretson-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:66105b70-5c4b-4b19-9a6a-5a129993ac80",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-575",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 463-2026 Corrective Action Plan.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-463-2026-corrective-action-plan-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:af2faa3b-a182-4cb4-a371-9551110a0d27",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-576",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 464-2026 Local Public Health.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-464-2026-local-public-health-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:dccb5695-eb26-4f96-8f57-5be454ec7482",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-577",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 465-2026 Hatfield.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-465-2026-hatfield-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a15d57c4-b79b-4773-905c-50aceef2b273",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-578",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 466-2026 F Pierre.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-466-2026-f-pierre-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:66176605-e03e-43ae-a1c6-ab2ddaa2aaed",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-579",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 467-2026 Hon R Hasan.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-467-2026-hon-r-hasan-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d791831c-0cad-4280-a373-22da299c1978",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-580",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 468-2026 County of Morris .PDF",
+    "status": "linked_external",
+    "fileName": "resolution-468-2026-county-of-morris-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8b0285cf-cbe3-414b-b662-9e1e302a0e27",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-581",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 469-2026 Lewis Consulting.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-469-2026-lewis-consulting-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c429fdfe-8159-469e-a024-fecb37597b61",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-582",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 470-2026 Shauger.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-470-2026-shauger-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1ae8fedd-5976-4db2-9b91-aa6c5a016de8",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-583",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 471-2026 Bill List.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-471-2026-bill-list-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a19911ee-f97f-44f9-9d54-88d82ca4aeb1",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-584",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 457-2026 November Election.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-457-2026-november-election-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:19f2442b-d27f-4bbc-aac1-f157b720f019",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-585",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Conference",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "downloaded",
+    "fileName": "10.6.26-Conference-Agenda.pdf",
+    "relativePath": "2026/10-06-2026/10.6.26-Conference-Agenda.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/10.6.26-Conference-Agenda.pdf",
+    "fileSize": 200612,
+    "sha256": "054f7e098667b5a3e66a90e85f4b5c89e962cf63ae314b2545389723fce6e028",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:27"
+  },
+  {
+    "id": "site-doc-586",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Conference",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "10.06.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "relativePath": "2026/10-06-2026/10.06.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/10.06.26-CONFERENCE-MEETING-MINUTES.pdf",
+    "fileSize": 78181,
+    "sha256": "84cdd1a58872d871d978b84a1c6468254f6696eee0e0a12dada170f7ae35a9e5",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:28"
+  },
+  {
+    "id": "site-doc-587",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Regular",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "linked_external",
+    "fileName": "10.6.26-Regular-Meeting-Agenda.docx",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/10.6.26-Regular-Meeting-Agenda.docx",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:28"
+  },
+  {
+    "id": "site-doc-588",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Regular",
+    "documentType": "Minutes",
+    "title": "Minutes",
+    "status": "downloaded",
+    "fileName": "10.06.26-REGULAR-MEETING-MINUTES.pdf",
+    "relativePath": "2026/10-06-2026/10.06.26-REGULAR-MEETING-MINUTES.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/10.06.26-REGULAR-MEETING-MINUTES.pdf",
+    "fileSize": 789985,
+    "sha256": "77233e5cac8905e126b903fc80b709c770deb726f202057784641439ca9566b0",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:29"
+  },
+  {
+    "id": "site-doc-589",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 28-2026 Data Centers AW.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-28-2026-data-centers-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:757c88e5-9a59-4b04-9428-07753e4ab589",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:29"
+  },
+  {
+    "id": "site-doc-590",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 36-2026 Parking 149 Elm St.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-36-2026-parking-149-elm-st-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5cc8e10c-bcb4-469e-b60b-d1a69556b657",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:29"
+  },
+  {
+    "id": "site-doc-591",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 37-2026 Parking 350 Ogden St.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-37-2026-parking-350-ogden-st-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:02156af7-655d-42b2-b129-198238261be0",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:29"
+  },
+  {
+    "id": "site-doc-592",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 43-2026 Bond Financing Law.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-43-2026-bond-financing-law-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d0eab9ea-1e67-4f60-bd14-3e6e510d3f1e",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:29"
+  },
+  {
+    "id": "site-doc-593",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 44-2026 Rent Control.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-44-2026-rent-control-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:867c0c09-9fc6-4282-82e6-499dd3c211b4",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:29"
+  },
+  {
+    "id": "site-doc-594",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 45-2026 Municipal Election.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-45-2026-municipal-election-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f3804de2-9d41-40d0-a1ea-7d8d272fb051",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:29"
+  },
+  {
+    "id": "site-doc-595",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 46-2026 Auxiliary Police Unit.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-46-2026-auxiliary-police-unit-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b2024e67-bd6f-4313-bbac-2a54a52ccb64",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:29"
+  },
+  {
+    "id": "site-doc-596",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "ORD.46-2026 (1)",
+    "status": "downloaded",
+    "fileName": "ORD.46-2026-1.pdf",
+    "relativePath": "2026/10-06-2026/ORD.46-2026-1.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/ORD.46-2026-1.pdf",
+    "fileSize": 127279,
+    "sha256": "f6979fe1b79afa6ec72a773599fbfdbaf767343f7398dd3c632184e26e16a055",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-597",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 31-2026 Amend. 88 & 200 Code.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-31-2026-amend-88-200-code-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4c9b664a-7377-43e7-b021-e72ac3606360",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-598",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 472-2026 Raffle License.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-472-2026-raffle-license-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:19659c36-dbf1-4aa2-b7f9-0550feedbbfb",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-599",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 473-2026 Compliance DLGS.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-473-2026-compliance-dlgs-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:17d0ca17-c597-4127-bad8-7abe0ec57b6f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-600",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 474-2026 Storage Engine.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-474-2026-storage-engine-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5137eb86-8966-4225-8ad9-1dd70c7392b1",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-601",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 475-2026 Sanctification QH.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-475-2026-sanctification-qh-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d7c49ce0-54c2-44eb-9803-cd1db79cb7e7",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-602",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 476-2026 Accept Grant Drive Sober.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-476-2026-accept-grant-drive-sober-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:daf9a45f-6a2e-4c73-bfac-e9452183c2d9",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-603",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 477-2026 National Civic League JW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-477-2026-national-civic-league-jw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:fb25ac5a-ba24-4e4f-986f-ae55429dab4f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-604",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 478-2026 Dr. Clarke QH.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-478-2026-dr-clarke-qh-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3f02a286-7314-41aa-b7a3-303714693345",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-605",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 479-2026 Reject bids phone line.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-479-2026-reject-bids-phone-line-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d23c6d91-aac9-4748-923e-0cd6b6906451",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-606",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 480-2026 Amend CY 2026 Municipal Budget.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-480-2026-amend-cy-2026-municipal-budget-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8adc736a-55ed-4a2b-8771-29daab7ed7a8",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-607",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 481-2026 Performance guarantees Planning Board.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-481-2026-performance-guarantees-planning-board-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:22c213ea-f8f6-4844-abab-216757be39b0",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-608",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 482-2026 Public Safety Director T. Warren.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-482-2026-public-safety-director-t-warren-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6270da3a-a4ca-44de-8a8a-fa264e1d0811",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-609",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 483-2026 Refund Tax over payment.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-483-2026-refund-tax-over-payment-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4bf47a23-8e84-4f01-9cc9-3bc53ec5a71f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-610",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 484-2026 Project Applications Block Grant.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-484-2026-project-applications-block-grant-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7f4a2877-9a20-4084-a56e-78c7a0832779",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-611",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 485-2026 Newark Police Academy.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-485-2026-newark-police-academy-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c43e02bf-3a67-480c-9eff-38b9b57ee1c5",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-612",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 486-2026 IPS Group.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-486-2026-ips-group-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6dd2ea65-cad1-4dd4-b6a6-1185ccc95897",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-613",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 487-2026 Grant Application.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-487-2026-grant-application-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2cb5b37d-a520-4cc0-8fff-f41719b4bc27",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-614",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 488-2026 286-306 Oakwood Ave.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-488-2026-286-306-oakwood-ave-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:83221537-7466-42ad-b9a4-13fab9be3e0c",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-615",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 489-2026 Concentra Medical Centers.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-489-2026-concentra-medical-centers-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b9abdfdd-0a0f-44e4-b63e-f4e9574fb89d",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-616",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 490-2026 Bill List.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-490-2026-bill-list-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b438d984-d1f3-4675-b979-3a570c8ef88c",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:30"
+  },
+  {
+    "id": "site-doc-617",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Conference",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "downloaded",
+    "fileName": "10.20.26-Conference-Agenda-1.pdf",
+    "relativePath": "2026/10-20-2026/10.20.26-Conference-Agenda-1.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/10.20.26-Conference-Agenda-1.pdf",
+    "fileSize": 201902,
+    "sha256": "28e322e1df57495369b459be8f20ac89b93b99026b49f1c6307b530e2b00df24",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-618",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Regular",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "linked_external",
+    "fileName": "agenda.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8689ffdd-7f51-483d-885d-a406cd561d6f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-619",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 39-2026 54 North Essex Handicapped.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-39-2026-54-north-essex-handicapped-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:31f273f0-07f7-4baf-bf85-eb4b3e3eec65",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-620",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 40-2026 Restructuring Chapter 4.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-40-2026-restructuring-chapter-4-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e6bea8c1-ea55-4b0b-b333-b1b62db01e6a",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-621",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 41-2026 Scattered Sites JWIII.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-41-2026-scattered-sites-jwiii-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:eabb7bcd-4c4e-4111-99c4-112aa4f540b1",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-622",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 42-2026 Traffic Study JW.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-42-2026-traffic-study-jw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:78078399-0178-4a21-bebb-e271384f4990",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-623",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 47-2026 Property Maintenance CR.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-47-2026-property-maintenance-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:bcc80220-8f63-401f-ac18-f8fca6aa5b6d",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-624",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 48-2026 270 N Center St.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-48-2026-270-n-center-st-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c0fac702-aec3-4d20-8341-21f0cede4e1b",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-625",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 49-2026 Metcalf Park.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-49-2026-metcalf-park-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:35d685f2-9110-4325-90cf-65f447f8421a",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-626",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 50-2026 76 Cleveland.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-50-2026-76-cleveland-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:66115082-ac61-4f2c-aea6-5c42a3ac8876",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-627",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 51-2026 407-415 Highland Avenue.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-51-2026-407-415-highland-avenue-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8f659898-230c-4a06-8d7c-13e9da0994b2",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-628",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 52-2026 394 Highland Avenue.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-52-2026-394-highland-avenue-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ef552365-e492-4901-969f-c66957347a10",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-629",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 53-2026 100 Main Street.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-53-2026-100-main-street-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:53afa8b1-72be-4744-955f-de1d8ab54e00",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-630",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 54-2026 Rakhee Enterprise Urban Renewal.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-54-2026-rakhee-enterprise-urban-renewal-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:98c63b0d-9af2-427e-9b42-3c8ee70eb107",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-631",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 55-2026 PSE&G Agr.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-55-2026-pse-g-agr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e39908e2-9392-4c5a-a4eb-33bf940bc603",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-632",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 493-2026 Celebrating G. Cole.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-493-2026-celebrating-g-cole-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7fdacda7-65d0-4131-a678-3fa2b026dbc8",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-633",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 494-2026 Celebrating Hon. D. Smith CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-494-2026-celebrating-hon-d-smith-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d416da5a-0df8-4c39-bf8c-0054515decab",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-634",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 495-2026 Celebrating K. Bernard WM.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-495-2026-celebrating-k-bernard-wm-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c6a57880-6573-4171-98a3-d29e137d4715",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-635",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 496-2026 Private Funding Opportunities LO.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-496-2026-private-funding-opportunities-lo-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:18355947-ef32-4481-81eb-5386c39762a8",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-636",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 497-2026 Inserting Grant Funding.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-497-2026-inserting-grant-funding-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:cdacfe33-ee74-48b4-ae83-eaf9ca624e9e",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-637",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 498-2026 Qualified Bond Act.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-498-2026-qualified-bond-act-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2879849a-1618-4c1a-8eca-ee92ef6b1b8c",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-638",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 499-2026 LFB Area Bonds.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-499-2026-lfb-area-bonds-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8b22bdd5-b41c-4cb7-875a-51402be1e55b",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-639",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 500-2026 Clear View Counseling.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-500-2026-clear-view-counseling-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d1b91f94-f43f-43e2-8964-1b82a932b397",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-640",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 501-2026 NV5 Contract.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-501-2026-nv5-contract-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a284a17d-0bd7-4501-b5a6-2127ed253808",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-641",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 502-2026 Belair Services.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-502-2026-belair-services-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6a2ace8f-ccba-4dd6-b509-10ec3e208d6f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-642",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 503-2026 Health Grant.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-503-2026-health-grant-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3762b45c-b279-41ad-a64c-6ae3c1e49095",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-643",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 504-2026 Rakhee Enterprise CBA.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-504-2026-rakhee-enterprise-cba-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:310d6dc1-3666-498e-ba55-acb32d79adbe",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-644",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 505-2026 Rakhee Enterprise Henry St.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-505-2026-rakhee-enterprise-henry-st-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c85b692b-1ba6-4e66-b797-a7ebbbae8ab6",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-645",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 506-2026 Salto Access FD.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-506-2026-salto-access-fd-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:663efe3e-72af-41fa-8941-a927fde36150",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-646",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 507-2026 Horizon Holding Group.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-507-2026-horizon-holding-group-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d8ed07e5-36c2-4575-9faa-ed29b1fca734",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-647",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 508-2026 Relx Legal Research.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-508-2026-relx-legal-research-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3261ae07-2516-4e97-bfc4-039fdbc89a60",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-648",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 509-2026 Greater Essex.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-509-2026-greater-essex-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:29d01da4-5196-4c60-beff-b2afe6121fb5",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-649",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 510-2026 Greater Essex Youth.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-510-2026-greater-essex-youth-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2a32d020-98cd-4a5a-b259-5584d33a5af5",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-650",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 511-2026 In Rem.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-511-2026-in-rem-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:72f4e583-f1d8-4336-a729-793f8e6fa676",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-651",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 512-2026 Shore Top Construction.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-512-2026-shore-top-construction-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1f562e99-3537-49b7-8911-8a32a50c082b",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-652",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 513-2026 CDBG Roadway.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-513-2026-cdbg-roadway-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b2c0d23a-b442-4add-8dcd-516315f9c883",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-653",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 514-2026 Montana Construction.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-514-2026-montana-construction-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d773e53d-fa1d-4815-96c9-f84f660cc72f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-654",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 515-2026 Netta Architects.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-515-2026-netta-architects-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:eed7e6d8-0056-4ab5-b90f-e1a292af862f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-655",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 516-2026 Abandoned Properties.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-516-2026-abandoned-properties-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:21c667be-966c-43a3-8f20-855c036fca7c",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-656",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 517-2026 Bill List 10.20.26.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-517-2026-bill-list-10-20-26-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:19134042-3c3b-4ef8-a474-276b29418006",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:31"
+  },
+  {
+    "id": "site-doc-657",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Conference",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "downloaded",
+    "fileName": "11.04.26-Conference-Agenda.pdf",
+    "relativePath": "2026/11-04-2026/11.04.26-Conference-Agenda.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/11.04.26-Conference-Agenda.pdf",
+    "fileSize": 217084,
+    "sha256": "9d60f53d207a829c0b6bdf8c7dc3545c8de95e3b6f8ad2c9dee1d7475277fe41",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:32"
+  },
+  {
+    "id": "site-doc-658",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Regular",
+    "documentType": "Agenda",
+    "title": "Agenda",
+    "status": "downloaded",
+    "fileName": "11.04.26-Regular-Meeting-Agenda.pdf",
+    "relativePath": "2026/11-04-2026/11.04.26-Regular-Meeting-Agenda.pdf",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://orangetwpnjcc.org/wp-content/uploads/2026/10/11.04.26-Regular-Meeting-Agenda.pdf",
+    "fileSize": 683780,
+    "sha256": "92567994bf2073ef2d097c5636b9fe7c0e8e2555a4c76d5cf2b48fac9105f06b",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-659",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 43-2026 Redevelopment Area Bond.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-43-2026-redevelopment-area-bond-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:4d6bb447-380c-4fd5-9db1-6acce07e8c7f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-660",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 44-2026 Rent Control QH.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-44-2026-rent-control-qh-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6b74bb75-13c5-42af-92c2-87524257ef42",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-661",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 47-2026 Property Maintenance CR.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-47-2026-property-maintenance-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:358f28c2-8722-40f4-a103-fcdc40c67d1e",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-662",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 48-2026 Handicapped 270 North Center.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-48-2026-handicapped-270-north-center-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:73d07c2c-67be-45d9-aa53-6b027cc9b70d",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-663",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 49-2026 Allow dogs in Metcalf Park.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-49-2026-allow-dogs-in-metcalf-park-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:bc3d10d2-4547-4452-be83-b2db24bdb802",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-664",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 54-2026 Rakhee Enterprise Urban Renewal.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-54-2026-rakhee-enterprise-urban-renewal-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:98c63b0d-9af2-427e-9b42-3c8ee70eb107",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-665",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 55-2026 PSE&G Agr.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-55-2026-pse-g-agr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e39908e2-9392-4c5a-a4eb-33bf940bc603",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-666",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 59-2026 Handicapped 485 Conover Terrace.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-59-2026-handicapped-485-conover-terrace-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:caeba21d-3eb9-4945-b17d-8196399c22d8",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-667",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 60-2026 Handicapped 128 Lincoln Avenue.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-60-2026-handicapped-128-lincoln-avenue-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c64c938b-edca-4bb2-99a5-779830224d90",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-668",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 61-2026 Special Emergency Appropriations.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-61-2026-special-emergency-appropriations-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f6c0a2ec-59d1-40b9-b35c-9aa71a8d6920",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-669",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 62-2026 Proof Requirements.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-62-2026-proof-requirements-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c211e0e6-cf31-438d-851a-8ab0634ffc4d",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-670",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 518-2026 Lerch, Vinci, & Bliss, LLP.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-518-2026-lerch-vinci-bliss-llp-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2fdc7353-a1f7-4558-82fb-cacd07af7812",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-671",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 519-2026 Recognizing Veterans Day KC.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-519-2026-recognizing-veterans-day-kc-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:57ee961b-0022-4901-97e8-d6aed3c815c3",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-672",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 520-2026 Recognizing Diabetes Month WMIII.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-520-2026-recognizing-diabetes-month-wmiii-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:0500026d-cc5e-4274-8132-e29bbc3ebca3",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-673",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 521-2026 Recognizing Small Business Saturday CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-521-2026-recognizing-small-business-saturday-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:86daeb15-6f28-4601-8b4c-67825cbc0659",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-674",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 522-2026 Recognizing Ruby Bridges Walk to School Day CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-522-2026-recognizing-ruby-bridges-walk-to-school-day-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:395c88af-e0ff-40fa-8678-c3bf5de01fca",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-675",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 523-2026 Appointing A. Samuel OSR&HP Advisory Board QH.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-523-2026-appointing-a-samuel-osr-hp-advisory-board-qh-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3e2d5676-599f-4801-a89d-d651eb3dd3a2",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-676",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 524-2026 Recognizing S & T Virden CR.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-524-2026-recognizing-s-t-virden-cr-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:506ad2dc-9670-4321-8b74-a1d2bc7250e4",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-677",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 525-2026 Honoring PSD T. Warren AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-525-2026-honoring-psd-t-warren-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c8976596-8aaf-4da0-b817-f829be324513",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-678",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 526-2026 Honoring Senator B. Timberlake AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-526-2026-honoring-senator-b-timberlake-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:83a6e23e-4a08-42f0-8b01-4333bbd19205",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-679",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 527-2026 Honoring 5th Alarm Group AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-527-2026-honoring-5th-alarm-group-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b52ca580-740d-46af-ab56-90a73f7ec78a",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-680",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 528-2026 Recognizing Family Caregivers Month AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-528-2026-recognizing-family-caregivers-month-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:419f91b0-68f7-4004-a8fa-5ca3119dbaed",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-681",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 529-2026 Recognizing Alzheimer\u2019s Disease Month AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-529-2026-recognizing-alzheimer-s-disease-month-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:95a84ba8-7a71-42ba-a365-d504e06ef750",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-682",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 530-2026 Honoring Bink International AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-530-2026-honoring-bink-international-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6ab8bcbb-0f40-407e-869f-17f6204a0496",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-683",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 531-2026 Recognizing Hunger & Homelessness AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-531-2026-recognizing-hunger-homelessness-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:79321b91-faa7-4903-bf25-c85d37912ca1",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-684",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 532-2026 Recognizing Pancreatic Cancer Month AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-532-2026-recognizing-pancreatic-cancer-month-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a531f157-969b-4dcd-a3b4-2c76c702c354",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-685",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 533-2026 Honoring P. Quedraogo AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-533-2026-honoring-p-quedraogo-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d540a676-972e-4b99-8673-413a0fc16316",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-686",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 534-2026 Honoring T. Bassit AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-534-2026-honoring-t-bassit-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6f8db45d-879f-4869-b231-0a2ecf0b701f",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-687",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 535-2026 Honoring A. Kibibi AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-535-2026-honoring-a-kibibi-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:bdbc71a4-3ee4-420a-a0e2-b75352b6ad0c",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-688",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 536-2026 Honoring 1000 SOWFI AW.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-536-2026-honoring-1000-sowfi-aw-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6a1ddc83-135a-4baa-a83b-b97cab850cb9",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-689",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 537-2026 Transfer of Appropriations.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-537-2026-transfer-of-appropriations-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:26f0665a-c28f-4867-be75-a3e5c1c427a8",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-690",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 538-2026 Tax Sale Certificate & Refund.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-538-2026-tax-sale-certificate-refund-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5fe27c11-c3b3-461d-85b7-db50f60a3723",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-691",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 539-2026 Veteran Lawn Ridge Rd.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-539-2026-veteran-lawn-ridge-rd-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5c6d4811-64db-49cf-b60a-dadf8eb3c72e",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-692",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 540-2026 Veteran Christopher St.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-540-2026-veteran-christopher-st-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:41eb07b1-122f-42c7-af72-2cf11ec53145",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-693",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 541-2026 Judge T. Pollard.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-541-2026-judge-t-pollard-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ff8b7b15-7932-4569-bb13-8e2b9c8c24e3",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-694",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 542-2026 SHI International Corp.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-542-2026-shi-international-corp-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:757199a2-378c-4487-af0a-db8d4e4d96b5",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-695",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 543-2026 Denville Line Painting.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-543-2026-denville-line-painting-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:59879556-9814-4d16-9bb6-08e621133798",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-696",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 544-2026 Downes Tree Service.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-544-2026-downes-tree-service-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2ec42f61-f1b1-4543-80aa-fe67827b0260",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-697",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 545-2026 NJDOT Safe Routes.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-545-2026-njdot-safe-routes-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:88979f18-e0ef-46ee-bb30-855c0d0e5220",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-698",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 546-2026 Lewis Consulting.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-546-2026-lewis-consulting-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6843c2a5-e4ae-4e49-ae50-46d93a3a2283",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-699",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 547-2026 Pennoni Associates.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-547-2026-pennoni-associates-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:185582a9-6cc9-4538-9ddd-62292c9421e0",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-700",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 548-2026 Blau & Blau.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-548-2026-blau-blau-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:cb217a41-2e58-4fa1-bddc-cd2488e36da8",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-701",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Resolution",
+    "title": "Resolution 549-2026 Bill List 11.4.26.PDF",
+    "status": "linked_external",
+    "fileName": "resolution-549-2026-bill-list-11-4-26-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:724a66f0-c3e6-4b59-96c7-43c22cdfbcc0",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-702",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 39-2026 54 North Essex Handicapped.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-39-2026-54-north-essex-handicapped-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:31f273f0-07f7-4baf-bf85-eb4b3e3eec65",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-703",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 56-2026 Permit Parking.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-56-2026-permit-parking-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f2f56a0d-4100-4217-9295-abc1c9fe53ba",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-704",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 57-2026 Parking Garage Fees.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-57-2026-parking-garage-fees-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:47fb784f-2755-4d56-af75-5aa1162c8d9e",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
+  },
+  {
+    "id": "site-doc-705",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Legislative Document",
+    "documentType": "Ordinance",
+    "title": "Ordinance 58-2026 Overnight Parking.PDF",
+    "status": "linked_external",
+    "fileName": "ordinance-58-2026-overnight-parking-pdf.pdf",
+    "relativePath": "",
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "sourceDocumentUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c533ed1a-c494-41c6-adc9-56b9a3dbaf8a",
+    "fileSize": 0,
+    "sha256": "",
+    "note": "",
+    "updatedAt": "2026-11-06T21:00:34"
   }
 ];
   const siteMeetings = [
@@ -8719,18 +12272,21 @@
     "title": "Jun #d, 2026 website postings",
     "documentTypes": [
       "Agenda",
+      "Minutes",
       "Ordinance",
       "Resolution"
     ],
-    "documentCount": 28,
-    "downloadedCount": 4,
+    "documentCount": 30,
+    "downloadedCount": 6,
     "statusSummary": {
-      "downloaded": 4,
+      "downloaded": 6,
       "linked_external": 24
     },
     "files": [
       "6.3.26-Conference-Agenda.pdf",
+      "06.03.26-CONFERENCE-MEETING-MINUTES.pdf",
       "6.3.26-Regular-Meeting-Agenda.pdf",
+      "06.03.26-REGULAR-MEETING-MINUTES.pdf",
       "6.8.26-Budget-Hearing.pdf",
       "6.11.26-Budget-Hearing-AMENDED.pdf"
     ],
@@ -8751,18 +12307,21 @@
     "title": "Jun #d, 2026 website postings",
     "documentTypes": [
       "Agenda",
+      "Minutes",
       "Ordinance",
       "Resolution"
     ],
-    "documentCount": 39,
-    "downloadedCount": 2,
+    "documentCount": 41,
+    "downloadedCount": 4,
     "statusSummary": {
-      "downloaded": 2,
+      "downloaded": 4,
       "linked_external": 37
     },
     "files": [
       "6.16.26-Conference-Agenda.pdf",
-      "6.16.26-Regular-Meeting-Agenda.pdf"
+      "06.16.26-CONFERENCE-MEETING-MINUTES.pdf",
+      "6.16.26-Regular-Meeting-Agenda.pdf",
+      "06.16.26-REGULAR-MEETING-MINUTES.pdf"
     ],
     "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
     "archiveStats": {
@@ -8840,24 +12399,186 @@
     "title": "Aug #d, 2026 website postings",
     "documentTypes": [
       "Agenda",
+      "Document",
+      "Minutes",
       "Ordinance",
       "Resolution"
     ],
-    "documentCount": 59,
-    "downloadedCount": 2,
+    "documentCount": 62,
+    "downloadedCount": 5,
     "statusSummary": {
-      "downloaded": 2,
+      "downloaded": 5,
       "linked_external": 57
     },
     "files": [
       "8.5.26-Conference-Agenda.pdf",
-      "8.5.26-Regular-Meeting-Agenda.pdf"
+      "08.05.26-CONFERENCE-MEETING-MINUTES.pdf",
+      "8.5.26-Regular-Meeting-Agenda.pdf",
+      "08.05.26-REGULAR-MEETING-MINUTES.pdf",
+      "08.24.26-SPECIAL-MEETING-MINUTES.pdf"
     ],
     "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
     "archiveStats": {
       "resolutionCount": 51,
       "ordinanceCount": 6,
       "contractCount": 2,
+      "spendingTotal": 0,
+      "spendingMentions": 0
+    }
+  },
+  {
+    "id": "site-meeting-2026-09-01",
+    "year": "2026",
+    "meetingDate": "2026-09-01",
+    "meetingType": "Website",
+    "title": "Sep #d, 2026 website postings",
+    "documentTypes": [
+      "Agenda",
+      "Ordinance",
+      "Resolution"
+    ],
+    "documentCount": 58,
+    "downloadedCount": 2,
+    "statusSummary": {
+      "downloaded": 2,
+      "linked_external": 56
+    },
+    "files": [
+      "9.1.26-Conference-Agenda-rev.pdf",
+      "9.1.26-Regular-Meeting-Agenda-rev.pdf"
+    ],
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "archiveStats": {
+      "resolutionCount": 46,
+      "ordinanceCount": 10,
+      "contractCount": 0,
+      "spendingTotal": 0,
+      "spendingMentions": 0
+    }
+  },
+  {
+    "id": "site-meeting-2026-09-15",
+    "year": "2026",
+    "meetingDate": "2026-09-15",
+    "meetingType": "Website",
+    "title": "Sep #d, 2026 website postings",
+    "documentTypes": [
+      "Agenda",
+      "Minutes",
+      "Ordinance",
+      "Resolution"
+    ],
+    "documentCount": 23,
+    "downloadedCount": 6,
+    "statusSummary": {
+      "downloaded": 6,
+      "linked_external": 17
+    },
+    "files": [
+      "9.15.26-Special-Meeting-Agenda-compressed.pdf",
+      "09.15.26-SPECIAL-MEETING-MINUTES-PUBLIC.pdf",
+      "9.15.26-Conference-Agenda.pdf",
+      "09.15.26-CONFERENCE-MEETING-MINUTES.pdf",
+      "9.15.26-Regular-Meeting-Agenda.pdf",
+      "09.15.26-REGULAR-MEETING-MINUTES.pdf"
+    ],
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "archiveStats": {
+      "resolutionCount": 13,
+      "ordinanceCount": 4,
+      "contractCount": 0,
+      "spendingTotal": 0,
+      "spendingMentions": 0
+    }
+  },
+  {
+    "id": "site-meeting-2026-10-06",
+    "year": "2026",
+    "meetingDate": "2026-10-06",
+    "meetingType": "Website",
+    "title": "Oct #d, 2026 website postings",
+    "documentTypes": [
+      "Agenda",
+      "Minutes",
+      "Ordinance",
+      "Resolution"
+    ],
+    "documentCount": 32,
+    "downloadedCount": 4,
+    "statusSummary": {
+      "downloaded": 4,
+      "linked_external": 28
+    },
+    "files": [
+      "10.6.26-Conference-Agenda.pdf",
+      "10.06.26-CONFERENCE-MEETING-MINUTES.pdf",
+      "10.06.26-REGULAR-MEETING-MINUTES.pdf",
+      "ORD.46-2026-1.pdf"
+    ],
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "archiveStats": {
+      "resolutionCount": 19,
+      "ordinanceCount": 9,
+      "contractCount": 1,
+      "spendingTotal": 0,
+      "spendingMentions": 0
+    }
+  },
+  {
+    "id": "site-meeting-2026-10-20",
+    "year": "2026",
+    "meetingDate": "2026-10-20",
+    "meetingType": "Website",
+    "title": "Oct #d, 2026 website postings",
+    "documentTypes": [
+      "Agenda",
+      "Ordinance",
+      "Resolution"
+    ],
+    "documentCount": 40,
+    "downloadedCount": 1,
+    "statusSummary": {
+      "downloaded": 1,
+      "linked_external": 39
+    },
+    "files": [
+      "10.20.26-Conference-Agenda-1.pdf"
+    ],
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "archiveStats": {
+      "resolutionCount": 25,
+      "ordinanceCount": 13,
+      "contractCount": 2,
+      "spendingTotal": 0,
+      "spendingMentions": 0
+    }
+  },
+  {
+    "id": "site-meeting-2026-11-04",
+    "year": "2026",
+    "meetingDate": "2026-11-04",
+    "meetingType": "Website",
+    "title": "Nov #d, 2026 website postings",
+    "documentTypes": [
+      "Agenda",
+      "Ordinance",
+      "Resolution"
+    ],
+    "documentCount": 49,
+    "downloadedCount": 2,
+    "statusSummary": {
+      "downloaded": 2,
+      "linked_external": 47
+    },
+    "files": [
+      "11.04.26-Conference-Agenda.pdf",
+      "11.04.26-Regular-Meeting-Agenda.pdf"
+    ],
+    "sourcePageUrl": "https://orangetwpnjcc.org/meetings/2026-meetings-2/",
+    "archiveStats": {
+      "resolutionCount": 32,
+      "ordinanceCount": 15,
+      "contractCount": 0,
       "spendingTotal": 0,
       "spendingMentions": 0
     }
